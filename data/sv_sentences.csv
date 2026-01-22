@@ -1,0 +1,370 @@
+stimulus_id,stimulus_name,language,screen_id,global_sent_index,text
+1,PopSci_MultiplEYE,sv,1,0,MultiplEYE-projektet
+1,PopSci_MultiplEYE,sv,1,1,Namnet “
+1,PopSci_MultiplEYE,sv,1,2,MultiplEYE” är en ordlek där “multilingualism” eller “multiple languages” kombineras med “eye” från “eye-tracking”.
+1,PopSci_MultiplEYE,sv,1,3,MultiplEYE är en COST-aktion finansierad av den Europeiska unionen.
+1,PopSci_MultiplEYE,sv,1,4,"COST-aktioner är nätverksprojekt med stöd från European Cooperation in Science and Technology, förkortat COST."
+1,PopSci_MultiplEYE,sv,1,5,Som finansiär stöder COST vårt växande nätverk av forskare i och utanför Europa genom att tillhandahålla medel för genomförande av nätverksaktiviteter.
+1,PopSci_MultiplEYE,sv,2,6,"Aktiviteterna innefattar möten i arbetsgrupper, utbildningar i syfte att dela kunskaper med yngre forskare och vetenskapliga forskningsbesök."
+1,PopSci_MultiplEYE,sv,2,7,Projekttiteln för COST-aktionen MultiplEYE är:
+1,PopSci_MultiplEYE,sv,2,8,Möjliggör insamling av flerspråkig eye-trackingdata för forskning om mänsklig och maskinell språkbehandling.
+1,PopSci_MultiplEYE,sv,2,9,Det innebär att syftet för COST-aktionen MultiplEYE är att främja ett interdisciplinärt forskningsnätverk som arbetar med insamling av eye-trackingdata från läsning på flera språk.
+1,PopSci_MultiplEYE,sv,3,10,"Målet är att stödja utvecklingen av en stor flerspråkig eye-trackingkorpus och göra det möjligt för forskare att bedriva datainsamling genom att dela kunskaper mellan olika fält, därbland lingvistik, psykologi, tal– och språkpatologi och datavetenskap."
+1,PopSci_MultiplEYE,sv,3,11,Därefter kan datan användas för att studera mänsklig språkbehandling från ett psykolingvistiskt perspektiv liksom för att förbättra och utvärdera maskinell språkbehandling från ett maskininlärningsperspektiv.
+1,PopSci_MultiplEYE,sv,4,12,Vad är ”eye-tracking”?
+1,PopSci_MultiplEYE,sv,4,13,Eye-tracking är en metod som mäter blickpunkten - var du tittar - och ögonens rörelser mellan fixerade blickpunkter.
+1,PopSci_MultiplEYE,sv,4,14,Eye-tracker kallas apparaten som används för att mäta ögonens positioner och rörelser.
+1,PopSci_MultiplEYE,sv,4,15,Den består av en värmekamera som använder sig av en ljusfrekvens som varken påverkar eller skadar människoögat.
+1,PopSci_MultiplEYE,sv,5,16,"Med hjälp av algoritmer för bildigenkänning kan eye-trackern med stor precision förutse blickpunkter genom att registrera huvudets och ögonens position, avståndet till skärmen deltagaren tittar på och eye-trackerns position."
+1,PopSci_MultiplEYE,sv,5,17,Eye-tracking är en användbar teknik i en rad tillämpningar.
+1,PopSci_MultiplEYE,sv,5,18,"Den kan till exempel användas för att upptäcka trötthet under bilkörning, eller för att stödja applikationer för screening eller utbildning inom det medicinska området."
+1,PopSci_MultiplEYE,sv,5,19,"Eye-tracking används också inom datorspel, marknadsföring och människa-datorinteraktion."
+1,PopSci_MultiplEYE,sv,6,20,Varför är eye-tracking vid läsning särskilt intressant för vårt projekt?
+1,PopSci_MultiplEYE,sv,6,21,När du läser de här orden följer eye-trackern dina ögonrörelser över texten.
+1,PopSci_MultiplEYE,sv,6,22,"Det ger information om hur lång tid du tittar på en text, eller mer specifikt hur lång tid du lägger på varje ord, vilka ord du hoppar över, vilka ord du dröjer vid och huruvida du behöver gå tillbaka och läsa om delar av texten för att förstå den bättre."
+1,PopSci_MultiplEYE,sv,7,23,När din hjärna bearbetar textens innehåll återspeglar dina ögonrörelser en stor del av den språkliga och kognitiva bearbetning som pågår nästan i realtid.
+1,PopSci_MultiplEYE,sv,7,24,Därav är den registrerade datan därav en guldgruva av information för hur vi sätter samman en texts betydelse och grammatiska strukturer.
+1,PopSci_MultiplEYE,sv,7,25,Den visar vilka delar av texten som vi har problem med och vilka delar som är lättlästa.
+1,PopSci_MultiplEYE,sv,7,26,Efter det är det upp till forskarna att förklara vilka lingvistiska faktorer som orsakade vilken sorts ögonrörelser.
+1,PopSci_MultiplEYE,sv,8,27,"Bakgrunden till MultiplEYE är att det fortfarande finns för lite data, särskilt från språk med färre talare."
+1,PopSci_MultiplEYE,sv,8,28,"En datainsamling av denna omfattning är en utmaning när det gäller att utveckla och komma överens om experimentets design, komplexitet och de typer av texter som ska läsas av deltagarna."
+1,PopSci_MultiplEYE,sv,8,29,"Andra beslut som kan tyckas vara mindre relevanta, men som egentligen är av stor vikt innefattar textstorlek och typsnitt, i vilken ordning texterna presenteras, experimentets genomförande och hur data bearbetas."
+1,PopSci_MultiplEYE,sv,9,30,När det väl är klart kommer datasetet att ge oss möjlighet att undersöka många ämnen som rör psykolingvistik och datalingvistik.
+1,PopSci_MultiplEYE,sv,9,31,Till exempel kan vi jämföra läsbeteenden mellan olika språk.
+1,PopSci_MultiplEYE,sv,9,32,"Påverkar skriften lästiden, till exempel det latinska alfabetet jämfört med kyrilliska eller arabiska skrifter?"
+1,PopSci_MultiplEYE,sv,9,33,Ett exempel på maskinell behandling av text kan vara att använda eye-trackingdata för att utveckla applikationer för artificiell intelligens som imiterar den mänskliga läsprocessen.
+1,PopSci_MultiplEYE,sv,9,34,Detta skulle kunna användas för att bygga bättre maskinöversättningssystem eller för att förbättra den automatiska extraktionen av nyckelord från en text.
+1,PopSci_MultiplEYE,sv,10,35,"Att få eye-trackingdata från många deltagare, dig inkluderat, som läser texter på en rad olika språk kommer att vara en bra grund för vår forskning."
+1,PopSci_MultiplEYE,sv,10,36,Det kommer att vara den viktigaste faktorn för att göra vårt forskningsnätverk till en framgångsrik verksamhet.
+1,PopSci_MultiplEYE,sv,10,37,Vi hoppas på att bana väg för forskningsframsteg i en rad av lingvistikens underordnade fält genom att föra samman och stödja en stor grupp av forskare.
+1,PopSci_MultiplEYE,sv,11,38,De främsta resultaten av MultiplEYE-aktionen kommer att vara ett stort dataset med eye-trackingdata på många språk och en plattform för nya samarbeten som bygger på denna sorts data.
+1,PopSci_MultiplEYE,sv,11,39,Om du läser denna text stödjer du redan vårt ändamål genom att låta oss samla in och analysera dina ögonrörelser när du läser och förstår språk.
+1,PopSci_MultiplEYE,sv,11,40,Tack!
+2,Ins_HumanRights,sv,1,41,Allmän förklaring om de mänskliga rättigheterna –
+2,Ins_HumanRights,sv,1,42,Ingress
+2,Ins_HumanRights,sv,1,43,"Eftersom erkännandet av det inneboende värdet hos alla som tillhör människosläktet och av deras lika och obestridliga rättigheter är grundvalen för frihet, rättvisa och fred i världen,"
+2,Ins_HumanRights,sv,2,44,"Eftersom ringaktning och förakt för de mänskliga rättigheterna har lett till barbariska gärningar som har upprört mänsklighetens samvete, och då skapandet av en värld där människorna åtnjuter yttrandefrihet, trosfrihet och frihet från fruktan och nöd har tillkännagivits som folkens högsta strävan,"
+2,Ins_HumanRights,sv,3,45,"Eftersom det är väsentligt för att människorna inte som en sista utväg skall tvingas att tillgripa uppror mot tyranni och förtryck att de mänskliga rättigheterna skyddas genom rättsstatens principer,"
+2,Ins_HumanRights,sv,4,46,"Eftersom det är väsentligt att främja utvecklingen av vänskapliga förbindelser mellan nationerna,"
+2,Ins_HumanRights,sv,5,47,"Eftersom Förenta Nationernas folk i stadgan åter har bekräftat sin tro på de grundläggande mänskliga rättigheterna, den enskilda människans värdighet och värde samt mäns och kvinnors lika rättigheter och har beslutat att främja sociala framsteg och bättre levnadsvillkor under större frihet,"
+2,Ins_HumanRights,sv,6,48,"Eftersom medlemsstaterna har åtagit sig att i samverkan med Förenta Nationerna säkerställa en allmän och faktisk respekt för och efterlevnad av de mänskliga rättigheterna och de grundläggande friheterna,"
+2,Ins_HumanRights,sv,7,49,"Eftersom en gemensam uppfattning om innebörden av dessa rättigheter och friheter är av största betydelse för att uppfylla detta åtagande,"
+2,Ins_HumanRights,sv,8,50,"tillkännager generalförsamlingen denna allmänna förklaring om de mänskliga rättigheterna som en gemensam norm för alla folk och nationer i syfte att alla människor och samhällsorgan med denna förklaring i ständig åtanke skall sträva efter att genom undervisning och utbildning främja respekten för dessa rättigheter och friheter samt genom progressiva åtgärder, både nationellt och internationellt, se till att de erkänns och tillämpas allmänt och effektivt både bland folken i medlemsstaterna och bland folken i områden som står under deras jurisdiktion."
+3,Ins_LearningMobility,sv,1,51,RAPPORT FRÅN KOMMISSIONEN TILL RÅDET:
+3,Ins_LearningMobility,sv,1,52,Lägesrapport om riktmärket för rörlighet i utbildningssyfte
+3,Ins_LearningMobility,sv,1,53,1.
+3,Ins_LearningMobility,sv,1,54,INLEDNING
+3,Ins_LearningMobility,sv,1,55,Kommissionen framhöll nyligen i sitt meddelande Att investera i Europas unga att rörlighet i utbildningssyfte främjar såväl anställbarhet som aktivt medborgarskap.
+3,Ins_LearningMobility,sv,1,56,"Utbildning, studier och praktik i ett annat land är en unik erfarenhet och kan öppna nya horisonter"
+3,Ins_LearningMobility,sv,2,57,"samt ge färdigheter och egenskaper som värdesätts av arbetsgivarna och är viktiga i dagens samhälle, såsom problemlösningsförmåga, anpassningsförmåga, tolerans och självförtroende."
+3,Ins_LearningMobility,sv,2,58,"Kommissionen uppmuntrar ungdomars rörlighet i utbildningssyfte genom sin politik och sina program, bland annat med hjälp av ett särskilt riktmärke och stöd via programmet Erasmus+."
+3,Ins_LearningMobility,sv,3,59,"Rådet uppmanar i sina slutsatser 2011 om ett riktmärke för rörlighet i utbildningssyfte (2011/C372/08) kommissionen att ”rapportera till rådet senast i slutet av 2015, i syfte att se över och, vid behov, revidera det europeiska riktmärke[t] för rörlighet i utbildningssyfte”."
+3,Ins_LearningMobility,sv,3,60,"I slutsatserna uppmanar rådet även kommissionen och medlemsstaterna att vidta ett antal andra åtgärder, främst när det gäller indikatorer för studerandes, ungdomars och lärares rörlighet."
+3,Ins_LearningMobility,sv,3,61,Det finns emellertid ingen skyldighet att rapportera till rådet om dessa åtgärder.
+3,Ins_LearningMobility,sv,3,62,De beskrivs närmare i separata dokument som finns tillgängliga hos kommissionen.
+3,Ins_LearningMobility,sv,4,63,"Bakgrunden till rådets slutsatser från 2011 är den strategiska ramen för europeiskt utbildningssamarbete (Utbildning 2020), i vilken kommissionen uppmanas ”att senast i slutet av 2010 lägga fram ett förslag för rådet om ett riktmärke på detta område, vilket inledningsvis bör inriktas på fysisk rörlighet mellan länder på området högre utbildning ...”."
+3,Ins_LearningMobility,sv,4,64,Rådets slutsatser föregicks av kommissionens arbetsdokument av den 24 maj 2011 om utformandet av riktmärken för utbildning för anställbarhet och för rörlighet i utbildningssyfte (dok.
+3,Ins_LearningMobility,sv,4,65,10697/11)
+3,Ins_LearningMobility,sv,4,66,.
+3,Ins_LearningMobility,sv,5,67,Genom denna rapport fullgör kommissionen sin skyldighet att rapportera till rådet om de framsteg som hittills har gjorts i arbetet med det europeiska riktmärket för rörlighet i utbildningssyfte med sikte på 2020.
+3,Ins_LearningMobility,sv,6,68,Riktmärket består av två indikatorer och definieras i bilagan till 2011 års slutsatser enligt följande:
+3,Ins_LearningMobility,sv,6,69,– ”Senast 2020 bör ett EU-genomsnitt av minst 20 % av utexaminerade från högre utbildning ha haft en till högre utbildning knuten studie- eller praktikperiod (inklusive yrkespraktik) utomlands motsvarande minst 15 ECTS-poäng eller en varaktighet på minst tre månader.
+3,Ins_LearningMobility,sv,6,70,”
+3,Ins_LearningMobility,sv,7,71,"– ”Senast 2020 bör ett genomsnitt på minst 6 % av 18–34-åringarna med en grundläggande yrkesutbildning och praktik ha haft en grundläggande VET-studie- eller praktikperiod (inklusive yrkespraktik) utomlands under minst två veckor, eller mindre om detta dokumenteras via Europass."
+3,Ins_LearningMobility,sv,7,72,”
+3,Ins_LearningMobility,sv,8,73,"Riktmärket avser främst antalet utresande studerande, det vill säga hur många personer som reser utomlands för att skaffa sig kunskaper och kvalifikationer."
+3,Ins_LearningMobility,sv,8,74,Inom EU är detta mål kopplat till EU:s grundläggande principer om fri rörlighet för personer och arbetskraft på den inre marknaden.
+3,Ins_LearningMobility,sv,9,75,EU:s riktmärke mäter antalet utexaminerade som både har vistats utomlands under sin studietid och har fullföljt sina utbildningar.
+3,Ins_LearningMobility,sv,9,76,"Något geografiskt område specificeras inte direkt, men i slutsatserna från 2011 understryks det att ”rörlighet i utbildningssyfte definieras som fysisk rörlighet, och hänsyn tas även till världsomspännande rörlighet”."
+3,Ins_LearningMobility,sv,9,77,Det instrument som nämns i slutsatserna (studier av hushåll med personer i en viss bred åldersgrupp) sätter i praktiken gränser för mätningen av indikatorn för riktmärket för rörlighet inom grundläggande yrkesutbildning och praktik.
+3,Ins_LearningMobility,sv,9,78,Någon källa för indikatorn för riktmärket för högre utbildning anges inte.
+4,Lit_Alchemist,sv,1,79,Alkemisten - Kapitel 1
+4,Lit_Alchemist,sv,1,80,Pojken hette Santiago.
+4,Lit_Alchemist,sv,1,81,Det hade just börjat skymma när han med sin fårahjord kom fram till en gammal övergiven kyrka.
+4,Lit_Alchemist,sv,1,82,Taket hade rasat in för länge sedan och en jättelik sykomor växte på den plats där sakristian låg en gång i tiden.
+4,Lit_Alchemist,sv,1,83,Han beslöt sig för att övernatta där.
+4,Lit_Alchemist,sv,1,84,Han såg till att alla fåren gick in genom den förfallna porten och lade sedan några brädor i vägen så att de inte kunde fly under natten.
+4,Lit_Alchemist,sv,2,85,"Vargar fanns det inte i de här trakterna, men en gång hade ett djur lyckats rymma under de mörka timmarna och hela nästa dag hade gått åt att leta efter det bortsprungna fåret."
+4,Lit_Alchemist,sv,2,86,"Han bredde ut sin jacka på marken och lade sig, och använde boken som han just läst som huvudkudde."
+4,Lit_Alchemist,sv,2,87,"Innan han slöt ögonen tänkte han att han måste börja läsa tjockare böcker, de tog längre tid att komma igenom och de var skönare huvudkuddar när han sov."
+4,Lit_Alchemist,sv,3,88,Det var ännu mörkt när han vaknade.
+4,Lit_Alchemist,sv,3,89,Han riktade blicken uppåt och såg att stjärnorna lyste in genom det halvförstörda taket.
+4,Lit_Alchemist,sv,3,90,"Jag hade gärna sovit lite längre, tänkte han."
+4,Lit_Alchemist,sv,3,91,"Han hade haft samma dröm som förra veckan, och återigen hade han vaknat före slutet."
+4,Lit_Alchemist,sv,3,92,Han reste sig upp och tog en klunk vin.
+4,Lit_Alchemist,sv,3,93,Sedan grep han herdestaven och började väcka de får som fortfarande sov.
+4,Lit_Alchemist,sv,3,94,Han hade märkt att så fort han reste sig började de flesta djuren också att vakna.
+4,Lit_Alchemist,sv,3,95,"Ett slags mystisk energi förenade hans liv med fårens, som i två år hade gått med honom kors och tvärs genom landet, på jakt efter vatten och bete."
+4,Lit_Alchemist,sv,4,96,»De är redan så vana vid mig att de kan min dygnsrytm»
+4,Lit_Alchemist,sv,4,97,", sade han lågt."
+4,Lit_Alchemist,sv,4,98,"Han tänkte efter ett ögonblick och sade sig själv att det kunde vara tvärtom också, att det var han som hade vant sig vid fårens dygnsrytm."
+4,Lit_Alchemist,sv,4,99,Det fanns dock vissa får som tog lite längre tid på sig för att komma på benen.
+4,Lit_Alchemist,sv,4,100,Pojken väckte det ena efter det andra med sin stav och kallade vart och ett vid dess namn.
+4,Lit_Alchemist,sv,4,101,Han hade alltid varit övertygad om att fåren förstod när han talade.
+4,Lit_Alchemist,sv,4,102,"Därför brukade han ibland låta dem höra stycken ur böcker som hade gjort intryck på honom, eller också berättade han om den ensamhet och glädje som en fåraherde känner,"
+4,Lit_Alchemist,sv,5,103,eller kommenterade det han sett i de städer han brukade passera.
+4,Lit_Alchemist,sv,5,104,"De båda senaste dagarna hade emellertid hans ämne i stort sett varit ett enda: flickan, köpmannens dotter, som bodde i den by han skulle komma till om fyra dagar."
+4,Lit_Alchemist,sv,5,105,"Han hade bara varit där en gång tidigare, förra året."
+4,Lit_Alchemist,sv,5,106,"Köpmannen var ägare till en tygbutik och ville helst titta på medan fåren klipptes, så han inte skulle bli lurad."
+4,Lit_Alchemist,sv,5,107,"En vän hade berättat om butiken, och herden hade drivit sina får dit."
+6,Lit_MagicMountain,sv,1,108,Bergtagen - Försats
+6,Lit_MagicMountain,sv,1,109,"Hans Castorps historia, som vi ämnar berätta - inte för hans skull (ty läsaren kommer att i honom lära känna en enkel om också tilltalande ung man) utan för historiens skull, vilken tycks oss i hög grad värd att berättas (varvid vi dock till Castorps förmån bör påminna om att det är hans historia och att inte vem som helst får vara med om vilken historia som helst): denna historia ligger mycket långt tillbaka, den är så att säga redan helt överdragen med historisk ädelrost och måste ovillkorligen framföras i den djupaste förflutenhetens tempus."
+6,Lit_MagicMountain,sv,2,110,"Detta skulle inte vara någon nackdel för en historia utan snarare en fördel; ty historier måste vara förflutna, och ju förflutnare, skulle man kunna säga, desto bättre för dem i deras egenskap av historier och för berättaren, den viskande besvärjaren av imperfektum."
+6,Lit_MagicMountain,sv,3,111,"Det förhåller sig emellertid med denna historia så som det idag förhåller sig även med människorna och bland dessa inte minst med historieberättarna: den är mycket äldre än sina år, hur gammal den är går inte att beräkna efter dagar, vilken ålder som vilar på den inte efter solvarv; med ett ord: dess grad av förflutenhet beror egentligen inte på tiden — en utsaga varmed vi ber att i förbigående få anspela på och hänvisa till det dubiösa och den egendomliga dubbelnaturen hos detta hemlighetsfulla element."
+6,Lit_MagicMountain,sv,4,112,Men för att inte konstlat fördunkla ett klart sakförhållande: vår historias höggradiga förflutenhet kommer sig av att den utspelar sig före en viss vändpunkt och gräns som åstadkommit en djup spricka i liv och medvetande ...
+6,Lit_MagicMountain,sv,4,113,"Den utspelar sig eller, för att med flit undvika allt presens, den utspelade sig förr, tidigare, i forna dagar, i världen före det stora kriget med vars begynnelse så mycket begynte som väl knappast har upphört att begynna."
+6,Lit_MagicMountain,sv,4,114,"Före alltså utspelar den sig, om också inte långt före."
+6,Lit_MagicMountain,sv,4,115,"Men är inte en historias förflutenhetskaraktär desto djupare, fullkomligare och sagoaktigare ju tätare »före« den utspelar sig?"
+6,Lit_MagicMountain,sv,5,116,"Därtill kan det hända att vår historia även annars, sin inre natur likmätigt, har ett och annat med sagan att göra."
+6,Lit_MagicMountain,sv,5,117,"Vi skall berätta den utförligt, noggrant och grundligt - ty när skulle någonsin en historias nöjsam- eller ledsamhet ha varit avhängig av det rum och den tid som den tog i anspråk?"
+6,Lit_MagicMountain,sv,5,118,Utan att rädas det odiösa pedanteriet lutar vi tvärtom åt åsikten att endast det grundliga är verkligt underhållande.
+6,Lit_MagicMountain,sv,6,119,Berättaren kommer alltså inte att bli klar med Hans historia i första taget.
+6,Lit_MagicMountain,sv,6,120,Veckans sju dagar lär inte räcka till och inte sju månader heller.
+6,Lit_MagicMountain,sv,6,121,Det är nog bäst att han inte i förväg gör klart för sig hur mycket av hans tid på jorden som skall förgå medan den håller honom snärjd.
+6,Lit_MagicMountain,sv,6,122,Det skall väl i Guds namn ändå inte bli sju år!
+8,Lit_Solaris,sv,1,123,Solaris – Kapitel 2:
+8,Lit_Solaris,sv,1,124,Solaristerna
+8,Lit_Solaris,sv,1,125,Upptäckten av Solaris inträffade nära hundra år innan jag föddes.
+8,Lit_Solaris,sv,1,126,"Planeten kretsar runt två solar, en röd och en blå."
+8,Lit_Solaris,sv,1,127,Under över fyrtio år kom inget rymdskepp nära Solaris.
+8,Lit_Solaris,sv,1,128,På den tiden gällde Gamow-Shapleys teori om omöjligheten att liv ska kunna uppstå på dubbelstjärnornas planeter som fullt bevisad.
+8,Lit_Solaris,sv,1,129,Sådana planeters banor ändras ständigt tll följd av den gravitationseffekt som uppstår när de två solarna kretsar kring varandra.
+8,Lit_Solaris,sv,2,130,"De uppstående perturbationerna ömsom krymper och ömsom utvidgar planetbanan, och om livbärande urämnen uppstår, förstörs de av strålningshetta eller iskyla."
+8,Lit_Solaris,sv,2,131,"Dessa förändringar äger rum under loppet av miljoner år, alltså på ganska kort tid enligt astronomiska och biologiska begrepp (för evolutionen kräver hundratals miljoner eller en miljard år)."
+8,Lit_Solaris,sv,3,132,Solaris skulle enligt de ursprungliga beräkningarna inom loppet av femhundratusen år ha kommit på ett avstånd av en halv astronomisk enhet från sin röda sol och efter ännu en miljon år störta ner i dess glödande avgrund.
+8,Lit_Solaris,sv,3,133,"Men efter bara något femtontal år blev man övertygad om att planetens bana inte alls uppvisade de väntade förändringarna, det var precis som om den var konstant, lika konstant som planetbanorna i vårt solsystem."
+8,Lit_Solaris,sv,4,134,"Man upprepade nu med allra största noggrannhet sina observationer och beräkningar, som bara bekräftade det som redan var känt: att Solaris har en icke konstant omloppsbana."
+8,Lit_Solaris,sv,4,135,"Från att ha varit en av flera hundra årligen upptäckta planeter, som får en notis på några rader med huvuddragen av sina rörelser, avancerade Solaris nu till ett objekt som var värt särskild uppmärksamhet."
+8,Lit_Solaris,sv,5,136,Och mycket riktigt — fyra år efter upptäckten kretsade Ottenskjolds expedition kring planeten.
+8,Lit_Solaris,sv,5,137,Han utforskade den från Laokoon och två följeskepp.
+8,Lit_Solaris,sv,5,138,"Den expeditionen var av provisorisk och improviserad natur, den var inte ens kapabel att landa."
+8,Lit_Solaris,sv,5,139,Den satte in ett större antal automatiska observationssatelliter i omloppsbanor över poler och ekvator som hade till huvuduppgift att mäta gravitationspotentialerna.
+8,Lit_Solaris,sv,6,140,"Dessutom utforskade man planetens yta, som nästan i sin helhet var täckt av ett hav och några enstaka högslätter som sköt upp över dess nivå."
+8,Lit_Solaris,sv,6,141,"Deras sammanlagda yta uppgick inte ens till Europas areal, fast Solaris har en diameter som är tjugo procent större än jordens."
+8,Lit_Solaris,sv,6,142,De små och ojämnt fördelade remsorna klippigt och ökenliknande land är huvudsakligen koncentrerade till det södra halvklotet.
+8,Lit_Solaris,sv,7,143,"Man fastställde också atmosfärens syrefria sammansättning, gjorde synnerligen noggranna mätningar av planetens täthet, dess albedo och andra astronomiska element."
+8,Lit_Solaris,sv,7,144,Som väntat fann man inga som helst spår av liv vare sig till lands eller i oceanen.
+8,Lit_Solaris,sv,8,145,"Under de följande tio åren visade Solaris, som nu var i centrum för alla observatoriers intresse, en häpnadsväckande tendens att bevaka sin icke konstanta omloppsbana, som nu var ställd utom allt tvivel."
+8,Lit_Solaris,sv,8,146,"Under en tid luktade det nästan skandal, eftersom man (med hänsyn till vetenskapens bästa) försökte skjuta skulden för ett sådant resultat av observationerna än på vissa personer, än på deras datorer."
+8,Lit_Solaris,sv,9,147,"Bristen på medel försenade utskickandet av en riktig Solarisexpedition i ytterligare tre år, ända tills Shannahan hade kompletterat sin besättning och fått tre enheter från institutet, tonnage C, kosmodromisk klass."
+8,Lit_Solaris,sv,9,148,"Ett och ett halvt år innan expeditionen som startade från Vattumannens alfa, kom fram, hade institutet skickat ut en enda forskningsflotta, satt en automatisk rymdstation, Luna 247, i omloppsbana kring Solaris."
+8,Lit_Solaris,sv,10,149,Rymdstationen fungerar än i dag efter tre ombyggnader med tiotals år emellan.
+8,Lit_Solaris,sv,10,150,De data den samlade in bekräftade definitivt den iakttagelse som Ottenskjolds expediton hade gjort om oceanrörelsernas aktiva karaktär.
+8,Lit_Solaris,sv,10,151,"Ett av Shannahans skepp låg kvar i hög omloppsbana, medan två efter inledande förberedelser landade på den klippiga landremsa, som upptar omkring sexhundra kvadratmil nära Solaris sydpol."
+8,Lit_Solaris,sv,11,152,"Expeditionens uppgifter slutfördes efter arton månader, och förlöpte lyckligt med undantag av en olyckshändelse som förorsakades av ett funktionsfel på apparaturen."
+8,Lit_Solaris,sv,11,153,Den vetenskapliga delen av personalen kom att splittras i två läger som bekämpade varandra.
+8,Lit_Solaris,sv,11,154,Det var oceanen som var föremål för tvisten.
+8,Lit_Solaris,sv,11,155,På grundval av analyserna erkändes oceanen som en organisk varelse (att kalla den levande
+8,Lit_Solaris,sv,11,156,var det då ännu ingen som vågade).
+8,Lit_Solaris,sv,12,157,"Men när biologerna i den såg ett primitivt väsen — något slags gigantisk enhet, alltså liksom en enda, monstruöst stor, flytande cell (men de kallade den en ”förbiologisk formation”), som omgav hela klotet med ett geléartat hölje med ett djup som ställvis nådde flera mil — då hävdade astronomer och fysiker att det måste vara en struktur som var övermåttan högt organiserad, som i sin uppbyggnad kanske överträffade de jordiska organismerna i sin komplexitet, eftersom den var i stånd att aktivt påverka planetens omloppsbana."
+8,Lit_Solaris,sv,13,158,"Man upptäckte nämligen ingen som helst annan orsak som förklarade Solaris beteende, och dessutom hade planetarfysikerna upptäckt ett samband mellan vissa processer i plasmaoceanen och den lokalt uppmätta gravitationspotentialen, som förändrades alltefter oceanens ”materiaomvandling”."
+8,Lit_Solaris,sv,13,159,"Det var alltså fysikerna och inte biologerna som myntade den paradoxala formuleringen ”plasmatisk maskin”, med vilket de menade ett väsen, som i vår bemärkelse kanske var livlöst, men i stånd att utföra målmedvetna handlingar i en skala — det är bäst att genast tillägga, som var av astronomiska mått."
+8,Lit_Solaris,sv,14,160,"Under denna tvist, som under loppet av några veckor drog in alla mer framstående auktoriteter i sin virvel, kom Gamow-Shapleys doktrin för första gången på åttio år i gungning."
+9,Lit_BrokenApril,sv,1,161,Grymma april - Kapitel 3
+9,Lit_BrokenApril,sv,1,162,"Med sin hustrus hand i sin lutade Bessian Vorpsi sitt huvud mot rutan som för att försäkra sig om att den lilla staden som de hade lämnat en halvtimme tidigare, den sista nedanför rrafsh, högplatån i norr, verkligen hade försvunnit ur deras åsyn, Framför dem och på sidorna bredde nu en lätt sluttande hedmark ut sig,"
+9,Lit_BrokenApril,sv,1,163,en ganska ovanlig marktyp som varken var slätt eller berg.
+9,Lit_BrokenApril,sv,2,164,"De egentliga bergen hade ännu inte dykt upp men man kunde gissa sig till deras skugga, och det var nog så att just skuggan av dem både utestängde den här platån från bergsområdet och samtidigt hindrade den från att vara en slätt."
+9,Lit_BrokenApril,sv,2,165,"Den var alltså ett slags mellanting, steril och nästan obebodd."
+9,Lit_BrokenApril,sv,3,166,Då och då pärlade små regndroppar över vagnsfönstren.
+9,Lit_BrokenApril,sv,3,167,»
+9,Lit_BrokenApril,sv,3,168,"Förbannelsens bergstoppar«, sa han allvarligt och med en lätt skälvning på rösten som för att välkomna något som han länge hade väntat på."
+9,Lit_BrokenApril,sv,3,169,"Han kände att det högtidliga namnet imponerade på hans hustru, vilket gav honom en viss tillfredsställelse."
+9,Lit_BrokenApril,sv,4,170,Hon böjde sig fram mot honom och han kände doften från hennes hals.
+9,Lit_BrokenApril,sv,4,171,»
+9,Lit_BrokenApril,sv,4,172,Var är de någonstans?
+9,Lit_BrokenApril,sv,4,173,«
+9,Lit_BrokenApril,sv,4,174,"Han gjorde en rörelse med hakan och sträckte sedan ut handen, men dit han pekade såg hon ingenting annat än tjock dimma."
+9,Lit_BrokenApril,sv,4,175,"»Det finns inget att se«, förklarade han."
+9,Lit_BrokenApril,sv,4,176,»Det är ännu långt kvar.
+9,Lit_BrokenApril,sv,4,177,«
+9,Lit_BrokenApril,sv,5,178,"»Det finns inget att se«, förklarade han."
+9,Lit_BrokenApril,sv,5,179,»Det är ännu långt kvar.
+9,Lit_BrokenApril,sv,5,180,«
+9,Lit_BrokenApril,sv,5,181,Med handen kvar i makens tryckte hon sig mot det sammetsklädda sätet.
+9,Lit_BrokenApril,sv,5,182,"Vagnens skakningar fick tidningen att falla till golvet, den tidning som skrev om dem och som de hade köpt före avresan, men de rörde inte ett finger för att ta upp den igen."
+9,Lit_BrokenApril,sv,5,183,Hon log ett litet uppgivet leende när hon tänkte på rubriken till den korta notisen om deras resa:
+9,Lit_BrokenApril,sv,5,184,»En mindre sensation:
+9,Lit_BrokenApril,sv,5,185,Författaren Bessian Vorpsi och hans unga hustru ska tillbringa smekmånaden på den norra högplatån!
+9,Lit_BrokenApril,sv,5,186,«
+9,Lit_BrokenApril,sv,6,187,Texten var lite tvetydig.
+9,Lit_BrokenApril,sv,6,188,"Man kunde inte så noga veta om skribenten, en viss A.G. (var det möjligen deras gemensamme bekant Adrian Guma?) var positiv till resan eller betraktade den med en viss ironi."
+9,Lit_BrokenApril,sv,7,189,När fästmannen två veckor före bröllopet hade avslöjat sina planer för henne hade hon tyckt att det var en komplett befängd idé.
+9,Lit_BrokenApril,sv,7,190,"»Bli inte förvånad«, hade hennes väninnor sagt, »när du gifter dig med en man utöver det vanliga kan du bara vänta dig originella saker."
+9,Lit_BrokenApril,sv,7,191,Det enda vi faktiskt kan säga dig är att du verkligen har haft tur!
+9,Lit_BrokenApril,sv,7,192,«
+9,Lit_BrokenApril,sv,8,193,Hon var verkligen lycklig.
+9,Lit_BrokenApril,sv,8,194,"I deras delvis mondäna, delvis konstnärliga umgängeskrets i Tirana hade det dagarna före bröllopet bara pratats om den förestående bröllopsresan."
+9,Lit_BrokenApril,sv,8,195,Väninnorna var avundsjuka och sa till henne:
+9,Lit_BrokenApril,sv,8,196,"»Du kommer att lämna verkligheten och vistas i sagornas värld, rättare sagt i hjältedådens universum som är så sällsynt att se ett levande exempel på nuförtiden."
+9,Lit_BrokenApril,sv,8,197,«
+9,Lit_BrokenApril,sv,9,198,"Sedan började man tala om feer och oreader, rapsoder, de sista homeriska sångerna och om Kanun, förfärlig men så majestätisk."
+9,Lit_BrokenApril,sv,9,199,"Andra skrattade åt detta förhärligande och uttryckte försiktigt sin misstro, vilken främst rörde trivselfrågor för det handlade ju om en bröllopsresa vilket kräver vissa bekvämligheter, men i alperna var det fortfarande kallt och sagotornen var byggda av sten."
+9,Lit_BrokenApril,sv,10,200,Däremot var det bara ett fåtal som lyssnade på alla uttalanden med road min som uttryckte:
+9,Lit_BrokenApril,sv,10,201,"»Åk ni, åk upp i norr bland oreaderna, det kommer att göra er gott båda två, särskilt Bessian."
+9,Lit_BrokenApril,sv,10,202,«
+10,Arg_PISACowsMilk,sv,1,203,Komjölk
+10,Arg_PISACowsMilk,sv,1,204,Introduktion
+10,Arg_PISACowsMilk,sv,1,205,"På vissa håll, t.ex. i USA, är det vanligt att dricka mjölk."
+10,Arg_PISACowsMilk,sv,1,206,"Tänk dig att tre elever, Anna, Christopher och Sam, sitter på ett café i USA."
+10,Arg_PISACowsMilk,sv,1,207,"I skyltfönstret har ägaren precis satt upp en skylt som säger ""Efter den 5 april serverar vi inte längre komjölk."
+10,Arg_PISACowsMilk,sv,1,208,I stället erbjuder vi en sojabaserad ersättning.
+10,Arg_PISACowsMilk,sv,1,209,”
+10,Arg_PISACowsMilk,sv,1,210,"Anna, Christopher och Sam undrar varför cafét skulle sluta att servera komjölk, så Anna gör en internetsökning om ”komjölk” på sin mobil."
+10,Arg_PISACowsMilk,sv,1,211,De tittar på det första resultatet och diskuterar det.
+10,Arg_PISACowsMilk,sv,2,212,www.gardsmejeriet.se
+10,Arg_PISACowsMilk,sv,2,213,GÅRDSMEJERIET
+10,Arg_PISACowsMilk,sv,2,214,Näringsvärdet i mjölk:
+10,Arg_PISACowsMilk,sv,2,215,Hur nyttigt som helst!
+10,Arg_PISACowsMilk,sv,3,216,"Gårdsmejeriets mjölkprodukter innehåller viktiga näringsämnen, som kalcium, protein, vitamin D, vitamin B12, riboflavin och kalium."
+10,Arg_PISACowsMilk,sv,3,217,Dessa vitaminer och mineraler gör Gårdsmejeriets mjölkprodukter till en viktig del av en sund kosthållning.
+10,Arg_PISACowsMilk,sv,3,218,Att äta och dricka Gårdsmejeriets mjölkprodukter varje dag är ett bra sätt att få i sig de vitaminer och mineraler som kroppen behöver.
+10,Arg_PISACowsMilk,sv,4,219,Gårdsmejeriets mjölkprodukter ger ökad viktminskning och bidrar till att hålla en hälsosam vikt.
+10,Arg_PISACowsMilk,sv,4,220,Mjölk ökar benstyrkan och bentätheten.
+10,Arg_PISACowsMilk,sv,4,221,Mjölk ger till och med bättre hjärt- och kärlhälsa och hjälper till att förebygga cancer.
+10,Arg_PISACowsMilk,sv,4,222,"Ett glas mjölk är fyllt av vitaminer och mineraler, som gör stor nytta i kroppen."
+10,Arg_PISACowsMilk,sv,5,223,"Enligt Bill Sears, läkare och docent vid University of California i Irvine, är mjölk ett praktiskt allt-i-ett-livsmedel med många viktiga näringsämnen."
+10,Arg_PISACowsMilk,sv,5,224,Den internationella mejerivaruorganisationen IDFA (The International Dairy Foods Association) håller med om detta och menar att många ledande personer och organisationer inom hälso- och sjukvården också delar denna uppfattning.
+10,Arg_PISACowsMilk,sv,6,225,Mjölk innehåller en hel uppsättning med nio livsnödvändiga näringsämnen.
+10,Arg_PISACowsMilk,sv,6,226,"Mjölk är en utmärkt källa till kalcium och vitamin D och dessutom en bra källa till vitamin A, protein och kalium."
+10,Arg_PISACowsMilk,sv,6,227,Mejeriprodukter rekommenderas av läkare.
+10,Arg_PISACowsMilk,sv,6,228,Mejeriprodukternas roll i en sund kosthållning har länge varit känd inom näringsläran och forskarvärlden.
+10,Arg_PISACowsMilk,sv,6,229,"Här ingår bl.a. USA:s nationella stiftelse mot benskörhet, folkhälsoministern, nationella folkhälsomyndigheten, den amerikanska läkarorganisationens vetenskapsråd och många andra ledande hälsoorganisationer."
+10,Arg_PISACowsMilk,sv,6,230,"International Dairy Foods Association, den 27 september 2007"
+10,Arg_PISACowsMilk,sv,7,231,"Anna, Christopher och Sam pratar om caféägarens beslut att sluta sälja komjölk."
+10,Arg_PISACowsMilk,sv,7,232,–
+10,Arg_PISACowsMilk,sv,7,233,"""Kanske komjölk börjar bli för dyrt"", säger Sam."
+10,Arg_PISACowsMilk,sv,7,234,Christopher tittar på sin mobil och säger:
+10,Arg_PISACowsMilk,sv,7,235,–
+10,Arg_PISACowsMilk,sv,7,236,Kanske
+10,Arg_PISACowsMilk,sv,7,237,", men jag har också gjort en sökning om komjölk på Internet."
+10,Arg_PISACowsMilk,sv,7,238,Jag sms:ar er en länk till en nyare artikel som kanske kan förklara saken.
+10,Arg_PISACowsMilk,sv,7,239,Anna och Sam öppnar länken som Christopher skickade och läser artikeln ”
+10,Arg_PISACowsMilk,sv,7,240,Säg nej till komjölk!
+10,Arg_PISACowsMilk,sv,7,241,”
+10,Arg_PISACowsMilk,sv,8,242,www.halsoaktuellt.se/mjolk
+10,Arg_PISACowsMilk,sv,8,243,HÄLSOAKTUELLT
+10,Arg_PISACowsMilk,sv,8,244,SÄG NEJ TILL KOMJÖLK!
+10,Arg_PISACowsMilk,sv,8,245,"av dr R.Garza, hälsoreporter"
+10,Arg_PISACowsMilk,sv,9,246,I USA spelar komjölk en stor roll i många människors liv.
+10,Arg_PISACowsMilk,sv,9,247,Bebisar dricker mjölk ur nappflaskan.
+10,Arg_PISACowsMilk,sv,9,248,Barn äter flingor som badar i mjölk.
+10,Arg_PISACowsMilk,sv,9,249,Även vuxna uppskattar ett glas kall mjölk då och då.
+10,Arg_PISACowsMilk,sv,9,250,"Ja, komjölk utgör en mycket stor del av människans kost på många håll i världen."
+10,Arg_PISACowsMilk,sv,9,251,Men det finns mer och mer forskning som antyder att mjölken kanske inte ”gör så gott” som det sägs i en populär amerikansk reklamslogan.
+10,Arg_PISACowsMilk,sv,10,252,"Det amerikanska jordbruksdepartementet och de amerikanska organisationerna American Dairy Council, Dairy Management och andra organisationer har i många år gjort omfattande propaganda för mjölk."
+10,Arg_PISACowsMilk,sv,10,253,De uppmanar vuxna att dricka minst tre glas mjölk om dagen.
+10,Arg_PISACowsMilk,sv,10,254,I flera studier de senaste tio åren har man dock ifrågasatt mjölkens skelettstärkande effekt och likaså andra påståenden om mjölkens hälsonytta.
+10,Arg_PISACowsMilk,sv,10,255,Resultaten kan komma att förvåna er.
+10,Arg_PISACowsMilk,sv,11,256,En av de senaste och viktigaste studierna om mjölkdrickandets effekter publicerades i oktober 2014 i den medicinska tidskriften British Medical Journal.
+10,Arg_PISACowsMilk,sv,11,257,Det man kom fram till i studien ledde till kraftfullt formulerade påståenden om mjölkkonsumtion.
+10,Arg_PISACowsMilk,sv,11,258,I studien följde man mer än 100 000 personer i Sverige under perioder på 20-30 år.
+10,Arg_PISACowsMilk,sv,11,259,Forskarna fann att kvinnor som drack mjölk i högre grad drabbades av skelettfrakturer.
+10,Arg_PISACowsMilk,sv,11,260,Dessutom var risken för hjärtsjukdomar och cancer större bland både män och kvinnor som drack mjölk.
+10,Arg_PISACowsMilk,sv,11,261,Dessa häpnadsväckande resultat överensstämmer med resultaten i andra studier.
+10,Arg_PISACowsMilk,sv,12,262,Den amerikanska läkarorganisationen för ansvarsfull sjukvård PCRM (Physicians Committee for Responsible Medicine) har uttalat sig om vissa hälsoproblem kopplade till mjölkkonsumtion.
+10,Arg_PISACowsMilk,sv,12,263,Den hävdar att
+10,Arg_PISACowsMilk,sv,12,264,mjölk och mejeriprodukter bara ”gör liten eller ingen nytta för skelettet”.
+10,Arg_PISACowsMilk,sv,12,265,PCRM beskriver dessutom några specifika problem i samband med mjölk:
+10,Arg_PISACowsMilk,sv,12,266,"”Proteiner i mjölk, mjölksocker, fett och mättat fett i mejeriprodukter utgör en hälsorisk för barn och bidrar till utveckling av fetma, diabetes och hjärtsjukdomar."
+10,Arg_PISACowsMilk,sv,12,267,”
+10,Arg_PISACowsMilk,sv,13,268,"Detta är allvarliga påståenden, och det krävs fler studier för att bekräfta resultaten."
+10,Arg_PISACowsMilk,sv,13,269,Det finns dock alltmer som tyder på att komjölk skulle kunna vara mindre hälsosamt än man tidigare trott.
+10,Arg_PISACowsMilk,sv,13,270,"Om dessa påståenden blir till obestridliga fakta, kan det vara dags att säga nej till komjölk."
+11,Arg_PISARapaNui,sv,1,271,Rapa Nui
+11,Arg_PISARapaNui,sv,1,272,Introduktion
+11,Arg_PISARapaNui,sv,1,273,Tänk dig att det lokala biblioteket anordnar en föreläsning nästa vecka.
+11,Arg_PISARapaNui,sv,1,274,Föreläsningen hålls av en professor från ett närliggande universitet.
+11,Arg_PISARapaNui,sv,1,275,Hon ska tala om sitt fältarbete på ön
+11,Arg_PISARapaNui,sv,1,276,Rapa
+11,Arg_PISARapaNui,sv,1,277,"Nui i Stilla havet, mer än 320 mil väster om Chile."
+11,Arg_PISARapaNui,sv,2,278,Din historieklass ska gå på föreläsningen.
+11,Arg_PISARapaNui,sv,2,279,Din lärare ber er läsa om
+11,Arg_PISARapaNui,sv,2,280,Rapa
+11,Arg_PISARapaNui,sv,2,281,"Nuis historia, så att ni vet en del om den innan ni går på föreläsningen."
+11,Arg_PISARapaNui,sv,2,282,Den första texten du ska läsa är ett blogginlägg som professorn skrev när hon bodde på Rapa Nui.
+11,Arg_PISARapaNui,sv,3,283,www.professornsblogg.se/faltarbete/RapaNui
+11,Arg_PISARapaNui,sv,3,284,Professorns blogg
+11,Arg_PISARapaNui,sv,3,285,Publicerad 23 maj kl. 11.22
+11,Arg_PISARapaNui,sv,4,286,"När jag tittar ut genom fönstret idag ser jag det landskap som jag har kommit att älska här på Rapa Nui, som på vissa håll kallas Påskön."
+11,Arg_PISARapaNui,sv,4,287,"Gräset och buskarna är gröna, himlen är blå, och de gamla utslocknade vulkanerna reser sig i bakgrunden."
+11,Arg_PISARapaNui,sv,5,288,Det känns lite ledsamt eftersom det här är min sista vecka på ön.
+11,Arg_PISARapaNui,sv,5,289,Jag är klar med mitt fältarbete och ska åka hem igen.
+11,Arg_PISARapaNui,sv,5,290,Senare idag ska jag ta en promenad bland kullarna och säga adjö till de moai som jag har studerat de senaste nio månaderna.
+11,Arg_PISARapaNui,sv,5,291,Här är en bild på några av dessa väldiga statyer.
+11,Arg_PISARapaNui,sv,6,292,Om du har följ min blogg under året vet du att befolkningen på Rapa Nui högg ut dessa moai för hundratals år sedan.
+11,Arg_PISARapaNui,sv,6,293,Dessa imponerande moai höggs ut i ett enda stenbrott på den östra delen av ön.
+11,Arg_PISARapaNui,sv,6,294,"En del vägde tusentals kilo, men folket på Rapa Nui lyckades flytta dem till platser långtifrån stenbrottet utan kranar eller tung utrustning."
+11,Arg_PISARapaNui,sv,7,295,I många år kände arkeologerna inte till hur de väldiga statyerna flyttades.
+11,Arg_PISARapaNui,sv,7,296,"Det var en gåta ända fram till 1990-talet, då ett team av arkeologer och invånare på Rapa Nui kunde visa att man hade kunnat flytta och räta upp moaistatyerna med hjälp av rep gjorda av växter, trästockar och ramper gjorda av de stora träd som det förr i tiden fanns många av på ön."
+11,Arg_PISARapaNui,sv,7,297,Moaigåtan var löst.
+11,Arg_PISARapaNui,sv,8,298,Men en annan gåta återstod att förklara.
+11,Arg_PISARapaNui,sv,8,299,Vad hände med de växter och stora träd som användes för att flytta moaistatyerna?
+11,Arg_PISARapaNui,sv,8,300,Som sagt.
+11,Arg_PISARapaNui,sv,8,301,"när jag tittar ut genom fönstret ser jag gräs och buskar och ett par små träd, men inget som hade kunnat användas för att flytta dessa enorma statyer."
+11,Arg_PISARapaNui,sv,8,302,Det är ett fascinerande mysterium som jag ska berätta om i mina inlägg och föreläsningar framöver.
+11,Arg_PISARapaNui,sv,8,303,Fram till dess kanske du själv vill reda ut gåtan.
+11,Arg_PISARapaNui,sv,8,304,Mitt råd är att börja med boken Undergång av Jared Diamond.
+11,Arg_PISARapaNui,sv,8,305,Den här recensionen av Undergång är en bra start.
+11,Arg_PISARapaNui,sv,9,306,"Resenären_14 24 maj, kl. 16:31"
+11,Arg_PISARapaNui,sv,9,307,”
+11,Arg_PISARapaNui,sv,9,308,Hej!
+11,Arg_PISARapaNui,sv,9,309,Det är jättespännande att följa ditt arbete på Påskön.
+11,Arg_PISARapaNui,sv,9,310,Jag är verkligen sugen på att läsa Undergång!
+11,Arg_PISARapaNui,sv,9,311,”
+11,Arg_PISARapaNui,sv,9,312,KB_ön 25 maj kl. 9:07
+11,Arg_PISARapaNui,sv,9,313,”
+11,Arg_PISARapaNui,sv,9,314,"Jag tycker också om att läsa om dina erfarenheter på Påskön, men jag tror att det finns en annan teori som man bör ta hänsyn till."
+11,Arg_PISARapaNui,sv,9,315,Läs den här artikeln:
+11,Arg_PISARapaNui,sv,9,316,www.vetenskapsnytt.com/Polynesiska_rattor_Rapa_Nui”
+11,Arg_PISARapaNui,sv,10,317,www.akademiskabokrecensionen.se/Undergang
+11,Arg_PISARapaNui,sv,10,318,Recension av Undergång
+11,Arg_PISARapaNui,sv,11,319,"Jared Diamonds nya bok, Undergång, varnar tydligt för miljöförstöringens konsekvenser."
+11,Arg_PISARapaNui,sv,11,320,I boken beskriver författaren flera civilisationer som gick under på grund av de val man gjorde och hur dessa val påverkade miljön.
+11,Arg_PISARapaNui,sv,11,321,Ett av de mest oroväckande exemplen i boken är Rapa Nui.
+11,Arg_PISARapaNui,sv,12,322,Enligt författaren bosatte sig polynesier på Rapa Nui någon gång efter år 700 e.Kr.
+11,Arg_PISARapaNui,sv,12,323,De utvecklade ett blomstrade samhälle med ungefär 15 000 invånare.
+11,Arg_PISARapaNui,sv,12,324,"De högg ut moai, de berömda statyerna, och använde de naturresurser som fanns för att flytta dessa enorma moai till olika platser på ön."
+11,Arg_PISARapaNui,sv,12,325,När de första européerna gick i land på Rapa
+11,Arg_PISARapaNui,sv,12,326,"Nui år 1722 fanns moaistatyerna kvar, men träden var borta."
+11,Arg_PISARapaNui,sv,13,327,Befolkningen hade minskat till några tusen invånare som kämpade för sin överlevnad.
+11,Arg_PISARapaNui,sv,13,328,Jared Diamond skriver att befolkningen på Rapa Nui röjde marken för jordbruk och andra ändamål samt att de bedrev en alltför intensiv jakt på de många sjö- och landfågelarter som häckade på ön.
+11,Arg_PISARapaNui,sv,13,329,Han frågar sig om de minskande naturresurserna ledde till inbördeskrig och Rapa Nui-samhällets undergång.
+11,Arg_PISARapaNui,sv,14,330,Lärdomen man kan dra av denna lika vackra som skrämmande bok är att människor förr i tiden valde att förstöra miljön genom att hugga ned alla träd och jaga djurarter tills de var utrotade.
+11,Arg_PISARapaNui,sv,14,331,Författaren är optimistisk och påpekar att vi kan välja att inte göra om samma misstag i dag.
+11,Arg_PISARapaNui,sv,14,332,Denna välskrivna bok är värd att läsas av alla som oroar sig för miljön.
+12,PopSci_Caveman,sv,1,333,Mörkhyad grottmänniska med blå ögon upptäckt
+12,PopSci_Caveman,sv,1,334,Utvunnet DNA från en visdomstand tillhörande en europeisk jägare-samlare har gett forskare en unik inblick i hur den moderna människan såg ut innan jordbruket uppkom.
+12,PopSci_Caveman,sv,1,335,"Den mesolitiska mannen, som levde i Spanien för cirka 7 000 år sedan, hade en ovanlig kombination av blå ögon, svart eller brunt hår och mörk hud enligt analyser av hans genuppsättning."
+12,PopSci_Caveman,sv,2,336,Han var förmodligen laktosintolerant och hade svårare att bryta ned stärkelserika livsmedel än de bönder som bytte kostvanor och livsstil efter att ha börjat använda verktyg under den första jordbruksrevolutionen.
+12,PopSci_Caveman,sv,3,337,Jordbrukets uppkomst medförde en närmare kontakt mellan människor och djur och människan utvecklade sannolikt ett starkare immunförsvar för att stå emot de infektioner som fördes vidare från djuren.
+12,PopSci_Caveman,sv,3,338,"Men forskare kan ha överskattat jordbrukets påverkan på utvecklingen/formandet av människans immunsystem, efter att tester på jägare-samlarens DNA visat att han redan bar på mutationer som stärker immunförsvarets motståndskraft mot en rad otäcka insekter."
+12,PopSci_Caveman,sv,3,339,En del mutationer lever vidare i moderna européer i dag.
+12,PopSci_Caveman,sv,4,340,"""Innan vi påbörjade det här arbetet hade jag några idéer om vad vi skulle hitta"", säger Carles Lalueza-Fox, som ledde studien vid Institutet för evolutionsbiologi i Barcelona."
+12,PopSci_Caveman,sv,4,341,"""Merparten av dessa idéer visade sig vara helt felaktiga."
+12,PopSci_Caveman,sv,4,342,""""
+12,PopSci_Caveman,sv,5,343,Det spanska teamet inledde sitt arbete efter att en grupp grottkrypare snubblat över två skelett i ett djupt och komplext grottsystem högt uppe i bergen i Kantabrien i nordvästra Spanien år 2006.
+12,PopSci_Caveman,sv,5,344,"De mänskliga kvarlevorna, tillhörande två män i 30-årsåldern, hade bevarats extremt väl av den svala miljön i grottan."
+12,PopSci_Caveman,sv,6,345,"Datering med kol-14-metoden fastställde att kvarlevorna var cirka 7 000 år gamla, innan jordbruket hade spritt sig till Europa från Mellanöstern."
+12,PopSci_Caveman,sv,6,346,"Tidpunkten stämmer överens med de antika artefakter som hittades på platsen, bland annat perforerade rentänder upphängda på människornas kläder."
+12,PopSci_Caveman,sv,7,347,Utöver påverkan på vetenskapen kan konstnärer behöva se över sina målningar av folket.
+12,PopSci_Caveman,sv,7,348,"""Man ser ofta avbilder av människor som jagar och samlar som ser ut som moderna européer med ljus hud."
+12,PopSci_Caveman,sv,7,349,"Man ser aldrig någon avbild av en mesolitisk jägare-samlare med mörk hud och blå ögonfärg"", säger Lalueza-Fox."
+12,PopSci_Caveman,sv,8,350,Det spanska teamet fortsatte att jämföra jägar- och samlargenomet med det från moderna européer från olika regioner för att se hur de kunde vara besläktade.
+12,PopSci_Caveman,sv,8,351,"De fann att det forntida DNA:t närmast matchade den genetiska sammansättningen hos människor som bor i norra Europa, i synnerhet i Sverige och Finland."
+13,Enc_WikiMoon,sv,1,352,Månen
+13,Enc_WikiMoon,sv,1,353,https://en.wikipedia.org/wiki/Moon
+13,Enc_WikiMoon,sv,1,354,"Från Wikipedia, den fria encyklopedin"
+13,Enc_WikiMoon,sv,1,355,Denna artikel handlar om jordens naturliga satellit.
+13,Enc_WikiMoon,sv,1,356,"För månar i allmänhet, se naturlig satellit."
+13,Enc_WikiMoon,sv,1,357,"För andra betydelser, se Måne (disambiguation)."
+13,Enc_WikiMoon,sv,1,358,Månen är jordens enda naturliga satellit.
+13,Enc_WikiMoon,sv,1,359,"Den roterar kring jorden på ett genomsnittligt avstånd av 384 400 km (238 900 engelska mil; 1,28 ls), eller ungefär 30 gånger jordens diameter."
+13,Enc_WikiMoon,sv,2,360,"Månens framsida är alltid vänd mot jorden eftersom den har en rotationsperiod som motsvarar dess omloppstid, vilket beror på en bunden rotation till jorden."
+13,Enc_WikiMoon,sv,2,361,"I förhållande till solen är denna period 29,5 dagar lång och är synlig i cykeln av månfaser."
+13,Enc_WikiMoon,sv,2,362,"För jorden har månen varit den viktigaste himlakroppen efter solen, framförallt på grund av dess gravitationella påverkan som den främsta orsaken till tidvattnet på jorden."
+7,Lit_NorthWind,sv,1,363,Nordanvinden och solen
+7,Lit_NorthWind,sv,1,364,"Mellan Nordanvinden och Solen uppstod en tvist om vilken av dem båda, som var den starkaste."
+7,Lit_NorthWind,sv,1,365,"Då de såg en resande på sin väg, beslöt de pröva, vem som fortast kunde ta manteln ifrån honom."
+7,Lit_NorthWind,sv,1,366,"Nordanvinden började och sände en rasande stormil, som genom sitt anfall nästan slet upp knäppet, som höll ihop manteln, men den resande fattade säkert tag i den och svepte den så tätt omkring kroppen, att Nordanvinden förgäves förslösade sin återstående kraft."
+7,Lit_NorthWind,sv,1,367,"Solen, som skingrade de moln som samlats, slungade då sina hetaste strålar på den resandes huvud."
+7,Lit_NorthWind,sv,1,368,"Alltmer utmattad av hettan, kastade mannen bort sin mantel och sprang till närmaste skuggrika plats för att söka skydd."

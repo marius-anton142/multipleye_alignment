@@ -1,0 +1,343 @@
+stimulus_id,stimulus_name,language,screen_id,global_sent_index,text
+1,PopSci_MultiplEYE,de,1,0,Das MultiplEYE Projekt
+1,PopSci_MultiplEYE,de,1,1,"Der Name „MultiplEYE“ ist ein Wortspiel, das „multilingualism“ (Englisch: Mehrsprachigkeit) oder „multiple languages“ (Englisch: mehrere Sprachen) mit „eye“ (Englisch: Auge) aus „Eye-Tracking“ (Englisch: Blickverfolgung) verbindet."
+1,PopSci_MultiplEYE,de,1,2,MultiplEYE ist eine von der Europäischen Union finanzierte COST Action.
+1,PopSci_MultiplEYE,de,1,3,"COST Actions sind Forschungsnetzwerke, die von der European Cooperation in Science and Technology, oder kurz COST, unterstützt werden."
+1,PopSci_MultiplEYE,de,2,4,"Als Förderorganisation unterstützt COST unser ständig wachsendes Netzwerk von Forschern in ganz Europa und darüber hinaus, indem es finanzielle Mittel für die Durchführung verschiedener Arten von Networking-Aktivitäten bereitstellt."
+1,PopSci_MultiplEYE,de,2,5,"Zu diesen Aktivitäten gehören Arbeitsgruppentreffen, Weiterbildungskurse, um Expertise an jüngeren Forscher weiterzugeben, und wissenschaftliche Forschungsaufenthalte."
+1,PopSci_MultiplEYE,de,3,6,Der Projekttitel der MultiplEYE
+1,PopSci_MultiplEYE,de,3,7,COST
+1,PopSci_MultiplEYE,de,3,8,Action lautet: Ermöglichung der mehrsprachigen Eye-Tracking-Datenerfassung für die menschliche und maschinelle Sprachverarbeitungsforschung (übersetzt aus dem Englischen).
+1,PopSci_MultiplEYE,de,3,9,"Das bedeutet, dass die MultiplEYE COST Action darauf abzielt, ein interdisziplinäres Netzwerk von Forschungsgruppen zu fördern, die an der Erhebung von Augenbewegungsdaten beim Lesen in verschiedenen Sprachen arbeiten."
+1,PopSci_MultiplEYE,de,4,10,"Ziel ist es, die Entwicklung eines großen mehrsprachigen Korpus von Augenbewegungsdaten zu unterstützen und es Forschern zu ermöglichen, Daten zu sammeln, indem sie ihr Expertenwissen aus verschiedenen Disziplinen teilen."
+1,PopSci_MultiplEYE,de,4,11,"Dazu gehören Linguistik, Psychologie, Sprach- und Lesetherapie und Informatik."
+1,PopSci_MultiplEYE,de,4,12,"Diese Datensammlung kann dann verwendet werden, um die menschliche Sprachverarbeitung aus psycholinguistischer Perspektive zu untersuchen, sowie die computergestützte Sprachverarbeitung aus der Perspektive des Maschinellen Lernens zu verbessern und zu evaluieren."
+1,PopSci_MultiplEYE,de,5,13,Was ist „Eye-Tracking”?
+1,PopSci_MultiplEYE,de,5,14,"Eye-Tracking ist der Prozess, bei dem der Blickpunkt – wohin Sie schauen – und die Augenbewegungen zwischen festen Blickpunkten gemessen werden."
+1,PopSci_MultiplEYE,de,5,15,"Das Gerät, mit dem die Augenpositionen und -bewegungen gemessen werden, wird als Eye-Tracker bezeichnet."
+1,PopSci_MultiplEYE,de,5,16,"Es besteht aus einer Infrarotkamera, die eine Lichtfrequenz verwendet, die das menschliche Auge nicht stört oder verletzt."
+1,PopSci_MultiplEYE,de,6,17,"Mit Hilfe von Bilderkennungsalgorithmen ist der Eye-Tracker in der Lage, Blickpunkte sehr genau zu schätzen, indem er die Position von Kopf und Augen, die Entfernung zum Bildschirm, auf den ein Teilnehmer blickt, und die Position des Eye-Trackers kennt."
+1,PopSci_MultiplEYE,de,6,18,Eye-Tracking ist eine nützliche Technologie für eine Vielzahl von Anwendungen.
+1,PopSci_MultiplEYE,de,6,19,"Beispielsweise kann es dabei helfen, Müdigkeit beim Autofahren zu erkennen oder Anwendungen für Screening- und Trainingszwecke im medizinischen Bereich unterstützen."
+1,PopSci_MultiplEYE,de,6,20,"Eye-Tracking wird auch in der Gaming-Branche, im Marketing und in der Forschung zur Interaktion von Mensch und Maschine eingesetzt."
+1,PopSci_MultiplEYE,de,7,21,Warum ist Eye-Tracking beim Lesen für unser Projekt besonders interessant?
+1,PopSci_MultiplEYE,de,7,22,"Während Sie diese Wörter lesen, folgt der Eye-Tracker Ihren Augenbewegungen über den Text."
+1,PopSci_MultiplEYE,de,7,23,"Dies gibt Aufschluss darüber, wie lange Sie sich einen Text angesehen haben, oder genauer gesagt, wie lange Sie zum Lesen jedes Wortes gebraucht haben, welche Wörter Sie übersprungen haben, bei welchen Wörtern Sie verweilt sind und ob Sie zurückgehen mussten, um die bereits gelesenen Wörter nochmals anzuschauen, um Teile des Textes besser zu verstehen."
+1,PopSci_MultiplEYE,de,8,24,"Während Ihr Gehirn den Inhalt des Textes verarbeitet, spiegeln Ihre Augenbewegungen fast in Echtzeit einen Großteil der dafür benötigten sprachlichen und kognitiven Verarbeitung wider."
+1,PopSci_MultiplEYE,de,8,25,"Die aufgezeichneten Daten sind also eine Goldgrube an Informationen darüber, wie wir die Bedeutung und die grammatikalischen Strukturen eines Textes zusammensetzen."
+1,PopSci_MultiplEYE,de,8,26,"Es zeigt, mit welchen Textstellen wir zu kämpfen haben und welche einfach lesbar sind."
+1,PopSci_MultiplEYE,de,8,27,"Die Forscher können daraus ableiten, welche sprachlichen Faktoren welche Art von Augenbewegungen verursacht haben."
+1,PopSci_MultiplEYE,de,9,28,"Die Motivation hinter MultiplEYE ist, dass Eye-Tracking-Daten noch immer nur spärlich verfügbar sind, insbesondere für  Sprachen mit weniger Sprechern."
+1,PopSci_MultiplEYE,de,9,29,"Eine so große Datensammlung ist eine Herausforderung in Bezug auf die Entwicklung und die Vereinbarung des experimentellen Designs, die Komplexität und die Art der Texte, die von den Teilnehmern gelesen werden sollen."
+1,PopSci_MultiplEYE,de,9,30,"Andere Entscheidungen, die weniger relevant erscheinen, aber tatsächlich sehr wichtig sind, betreffen die Schriftart und -größe des Textes, die Reihenfolge der Texte, den Versuchsablauf und die Art und Weise, wie die Daten danach verarbeitet werden."
+1,PopSci_MultiplEYE,de,10,31,"Aber sobald dieser Datensatz fertig ist, wird er es uns ermöglichen, viele Themen im Zusammenhang mit Psycholinguistik und Computerlinguistik zu untersuchen."
+1,PopSci_MultiplEYE,de,10,32,Beispielsweise können wir das Leseverhalten über verschiedene Sprachen hinweg vergleichen.
+1,PopSci_MultiplEYE,de,10,33,"Hat die Schrift, z.B. das lateinische Alphabet im Vergleich zur kyrillischen oder arabischen Schrift, einen Einfluss auf die Lesezeit?"
+1,PopSci_MultiplEYE,de,11,34,"Ein Beispiel für die computergestützte Textverarbeitung könnte die Verwendung von Eye-Tracking-Daten sein, um Anwendungen künstlicher Intelligenz voranzutreiben, die den menschlichen Leseprozess nachahmen."
+1,PopSci_MultiplEYE,de,11,35,"Diese Erkenntnisse könnten verwendet werden, um bessere maschinelle Übersetzungssysteme zu bauen oder um die automatische Extraktion von Schlüsselwörtern aus Texten zu verbessern."
+1,PopSci_MultiplEYE,de,12,36,"Das Erhalten von Eye-Tracking-Daten von vielen verschiedenen Teilnehmern, einschließlich Ihnen selbst, die Texte in vielen verschiedenen Sprachen lesen, wird eine großartige Grundlage für unsere Forschung sein."
+1,PopSci_MultiplEYE,de,12,37,"Sie wird der Hauptfaktor sein, um unser Forschungsnetzwerk zu einem erfolgreichen Unterfangen zu machen."
+1,PopSci_MultiplEYE,de,12,38,"Wir hoffen, dass wir den Weg für die Förderung der Forschung in verschiedenen Teilgebieten der Linguistik ebnen können, indem wir eine große Gruppe von Forschern unterstützen und vernetzen."
+1,PopSci_MultiplEYE,de,13,39,"Die Hauptergebnisse der MultiplEYE Action werden ein großer Datensatz mit Blickverfolgungsdaten in vielen Sprachen und eine Plattform für neue Kooperationen sein, die diese Art von Daten nutzen."
+1,PopSci_MultiplEYE,de,13,40,"Wenn Sie diesen Text lesen, unterstützen Sie uns bereits, indem Sie uns erlauben, Ihre Augenbewegungen beim Lesen und Verstehen von Sprache zu erfassen und zu analysieren."
+1,PopSci_MultiplEYE,de,13,41,Vielen Dank!
+2,Ins_HumanRights,de,1,42,Die Allgemeine Erklärung der Menschenrechte - Präambel
+2,Ins_HumanRights,de,1,43,"Da die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder der Gemeinschaft der Menschen die Grundlage von Freiheit, Gerechtigkeit und Frieden in der Welt bildet,"
+2,Ins_HumanRights,de,2,44,"da die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbarei geführt haben, die das Gewissen der Menschheit mit Empörung erfüllen, und da verkündet worden ist, daß einer Welt, in der die Menschen Rede- und Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des Menschen gilt,"
+2,Ins_HumanRights,de,3,45,"da es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zu schützen, damit der Mensch nicht gezwungen wird, als letztes Mittel zum Aufstand gegen Tyrannei und Unterdrückung zu greifen,"
+2,Ins_HumanRights,de,4,46,"da es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den Nationen zu fördern,"
+2,Ins_HumanRights,de,5,47,"da die Völker der Vereinten Nationen in der Charta ihren Glauben an die grundlegenden Menschenrechte, an die Würde und den Wert der menschlichen Person und an die Gleichberechtigung von Mann und Frau erneut bekräftigt und beschlossen haben, den sozialen Fortschritt und bessere Lebensbedingungen in größerer Freiheit zu fördern,"
+2,Ins_HumanRights,de,6,48,"da die Mitgliedstaaten sich verpflichtet haben, in Zusammenarbeit mit den Vereinten Nationen auf die allgemeine Achtung und Einhaltung der Menschenrechte und Grundfreiheiten hinzuwirken,"
+2,Ins_HumanRights,de,7,49,"da ein gemeinsames Verständnis dieser Rechte und Freiheiten von größter Wichtigkeit für die volle Erfüllung dieser Verpflichtung ist,"
+2,Ins_HumanRights,de,8,50,"verkündet die Generalversammlung diese Allgemeine Erklärung der Menschenrechte als das von allen Völkern und Nationen zu erreichende gemeinsame Ideal, damit jeder einzelne und alle Organe der Gesellschaft sich diese Erklärung stets gegenwärtig halten und sich bemühen, durch Unterricht und Erziehung die Achtung vor diesen Rechten und Freiheiten zu fördern und durch fortschreitende nationale und internationale Maßnahmen ihre allgemeine und tatsächliche Anerkennung und Einhaltung durch die Bevölkerung der Mitgliedstaaten selbst wie auch durch die Bevölkerung der ihrer Hoheitsgewalt unterstehenden Gebiete zu gewährleisten."
+3,Ins_LearningMobility,de,1,51,BERICHT
+3,Ins_LearningMobility,de,1,52,DER KOMMISSION
+3,Ins_LearningMobility,de,1,53,AN DEN RAT: Fortschrittsbericht über eine Benchmark für die Lernmobilität
+3,Ins_LearningMobility,de,1,54,1. EINFÜHRUNG
+3,Ins_LearningMobility,de,1,55,In der jüngsten Mitteilung der Kommission „Investieren in Europas Jugend“ werden die positiven Auswirkungen der Lernmobilität auf Beschäftigungsfähigkeit und bürgerschaftliches Engagement hervorgehoben.
+3,Ins_LearningMobility,de,1,56,"In einem anderen Land zu lernen, zu studieren oder einer Ausbildung nachzugehen, ist eine einzigartige Erfahrung und kann neue Perspektiven eröffnen."
+3,Ins_LearningMobility,de,2,57,"Die Kompetenzen, die im Rahmen einer Mobilitätserfahrung erworben werden, etwa Problemlösungs- und Anpassungsfähigkeit sowie Toleranz und Zuversicht, werden von Arbeitgebern geschätzt und sind in der heutigen Gesellschaft unentbehrlich."
+3,Ins_LearningMobility,de,2,58,"Die Kommission fördert die Lernmobilität junger Menschen im Rahmen ihrer politischen Konzepte und Programme, die auch eine spezielle Benchmark und die Unterstützung durch das Programm Erasmus+ umfassen."
+3,Ins_LearningMobility,de,3,59,"In seinen Schlussfolgerungen zu einer Benchmark für die Lernmobilität (2011/C 372/08) fordert der Rat die Kommission auf, „dem Rat bis Ende 2015 über die Ergebnisse im Hinblick auf eine Überprüfung und gegebenenfalls Überarbeitung der [...] europäischen Benchmark Bericht zu erstatten“."
+3,Ins_LearningMobility,de,3,60,"Der Rat fordert die Kommission und die Mitgliedstaaten außerdem zur Durchführung einer Reihe weiterer Maßnahmen auf, die sich insbesondere auf Indikatoren für die Mobilität von Studentinnen und Studenten, jungen Menschen und Lehrkräften beziehen."
+3,Ins_LearningMobility,de,3,61,Im Zusammenhang mit diesen Maßnahmen besteht jedoch keine Verpflichtung zur Berichterstattung an den Rat.
+3,Ins_LearningMobility,de,4,62,"Hierzu stehen separate Unterlagen der Kommission zur Verfügung, in denen die Maßnahmen eingehender beschrieben werden."
+3,Ins_LearningMobility,de,4,63,"Hintergrund der Schlussfolgerungen des Rates von 2011 ist der strategische Rahmen für die europäische Zusammenarbeit auf dem Gebiet der allgemeinen und beruflichen Bildung 2020, in dem die Kommission ersucht wird, „bis Ende 2010 einen Vorschlag für eine Benchmark in diesem Bereich vorzulegen, der sich zunächst auf die physische Mobilität zwischen Ländern im Bereich der Hochschulbildung konzentrieren [...] sollte.“"
+3,Ins_LearningMobility,de,5,64,Den Schlussfolgerungen des Rates ging eine Arbeitsunterlage der Kommissionsdienststellen vom 24. Mai 2011 zur Entwicklung von Benchmarks zu Bildung für Beschäftigungsfähigkeit und zu Mobilität zu Lernzwecken (Dok.
+3,Ins_LearningMobility,de,5,65,10697/11) voraus.
+3,Ins_LearningMobility,de,5,66,Mit dem vorliegenden Bericht wird die Verpflichtung zur Berichterstattung an den Rat über die erzielten Fortschritte bei der Mobilitätsbenchmark im Hinblick auf die Fortsetzung der Arbeit bis 2020 eingelöst.
+3,Ins_LearningMobility,de,6,67,Die aus zwei Indikatoren bestehende Benchmark für die Lernmobilität wird im Anhang der Schlussfolgerungen von 2011 folgendermaßen definiert:
+3,Ins_LearningMobility,de,6,68,"– „Bis 2020 sollten in der EU durchschnittlich mindestens 20 % der Hochschulabsolventen eine Studien- oder Ausbildungsphase (einschließlich Praktika) im Ausland absolviert haben, die mindestens 15 ECTS-Leistungspunkte abdeckt oder eine Mindestdauer von 3 Monaten umfasst.“"
+3,Ins_LearningMobility,de,7,69,"– „Bis 2020 sollten in der EU durchschnittlich mindestens 6 % der 18- bis 34-Jährigen mit abgeschlossener beruflicher Erstausbildung eine mit der Berufsausbildung zusammenhängende Ausbildungsphase (einschließlich Praktika) von mindestens zwei Wochen oder, sofern im ‚Europass‘ verzeichnet, auch von kürzerer Dauer im Ausland absolviert haben.“"
+3,Ins_LearningMobility,de,8,70,"Der Schwerpunkt der Benchmark liegt auf der ausgehenden Mobilität, mit anderen Worten auf dem Ausmaß, in dem Menschen ins Ausland gehen, um Lernerfahrungen und Qualifikationen zu erwerben."
+3,Ins_LearningMobility,de,8,71,Innerhalb der EU steht dieses Ziel mit den Grundsätzen der Freizügigkeit von Personen und Arbeitskräften im Binnenmarkt in Verbindung.
+3,Ins_LearningMobility,de,9,72,"Die EU-Benchmark misst die Zahl der Absolventen, die während ihres Studiums mobil waren und ihre Qualifikation erfolgreich abgeschlossen haben."
+3,Ins_LearningMobility,de,9,73,"Sie hat keinen direkten Bezug zu einem geografischen Gebiet, in den Schlussfolgerungen von 2011 wird jedoch betont:"
+3,Ins_LearningMobility,de,9,74,„Lernmobilität bedeutet physische Mobilität einschließlich weltweiter Mobilität.“
+3,Ins_LearningMobility,de,9,75,"Die Messung des Indikators der Benchmark für die Mobilität in der Berufsausbildung wird in der Praxis durch das in den Schlussfolgerungen genannte Instrument (eine Haushaltserhebung bei einer bestimmten, breit angelegten Altersgruppe) begrenzt, während die Quelle für den Indikator im Bereich der Hochschulbildung nicht festgelegt ist."
+4,Lit_Alchemist,de,1,76,Der Alchemist - Kapitel 1
+4,Lit_Alchemist,de,1,77,Der Jüngling hieß Santiago.
+4,Lit_Alchemist,de,1,78,"Es fing bereits an zu dämmern, als er mit seiner Schafherde zu einer alten, verlassenen Kirche kam."
+4,Lit_Alchemist,de,1,79,"Das Dach war schon vor geraumer Zeit eingestürzt, und ein riesiger Maulbeerbaum wuchs an jener Stelle, wo sich einst die Sakristei befand."
+4,Lit_Alchemist,de,1,80,"Er entschloß sich, die Nacht hier zu verbringen."
+4,Lit_Alchemist,de,1,81,"So geleitete er alle Schafe durch die beschädigte Türe und legte einige Bretter quer davor, damit ihm die Tiere während der Nacht nicht entwischen konnten."
+4,Lit_Alchemist,de,2,82,"Zwar gab es keine Wölfe in jener Gegend, aber einmal war ihm eines der Tiere während der Nacht entkommen, und er mußte den ganzen folgenden Tag mit der Suche nach dem verirrten Schäfchen verbringen."
+4,Lit_Alchemist,de,2,83,"Danach breitete er seinen Mantel auf dem Fußboden aus, legte sich nieder und nahm das Buch, das er gerade gelesen hatte, als Kopfkissen."
+4,Lit_Alchemist,de,2,84,"Vor dem Einschlafen dachte er daran, daß er in Zukunft dickere Bücher lesen wollte, weil man länger etwas davon hat und weil sie eine bequemere Kopfstütze abgeben."
+4,Lit_Alchemist,de,3,85,"Es war noch finster, als er erwachte."
+4,Lit_Alchemist,de,3,86,"Als er nach oben schaute, sah er die Sterne zwischen den Dachbalken durchscheinen."
+4,Lit_Alchemist,de,3,87,"""Eigentlich wollte ich noch weiterschlafen"", dachte er bei sich."
+4,Lit_Alchemist,de,3,88,"Wieder hatte er den gleichen Traum gehabt wie vor einer Woche, und wieder war er vor dem Ende aufgewacht."
+4,Lit_Alchemist,de,3,89,Er erhob sich und trank einen Schluck Wein.
+4,Lit_Alchemist,de,3,90,"Dann nahm er seinen Hirtenstab und begann, die Schafe, die noch schliefen, eines nach dem anderen zu wecken."
+4,Lit_Alchemist,de,4,91,"Mehr und mehr wurden die Tiere, wie ihm aufgefallen war, gleichzeitig mit ihm wach, als ob ein geheimnisvoller Gleichklang sein Leben mit dem der Schafe verband, die seit nunmehr zwei Jahren mit ihm übers Land gezogen waren, auf der Suche nach Wasser und Nahrung."
+4,Lit_Alchemist,de,4,92,"""Sie haben sich schon so an mich gewöhnt, daß sie meinen Rhythmus kennen"", dachte er."
+4,Lit_Alchemist,de,4,93,"Aber nach kurzer Überlegung kam er zu dem Schluß, daß es auch umgekehrt sein könnte:"
+4,Lit_Alchemist,de,4,94,Er selber hatte sich dem Rhythmus seiner Schafe angepaßt!
+4,Lit_Alchemist,de,5,95,Einige unter den Tieren brauchten etwas länger zum Aufstehen.
+4,Lit_Alchemist,de,5,96,"Der Jüngling weckte sie mit seinem Stab, indem er jedes bei seinem Namen nannte."
+4,Lit_Alchemist,de,5,97,"Immer hatte er den Eindruck, daß die Schafe alles verstanden, was er sagte."
+4,Lit_Alchemist,de,5,98,"Darum las er ihnen auch gelegentlich Abschnitte aus Büchern vor, die ihn besonders beeindruckten, oder er philosophierte über die Einsamkeit und die Freuden eines Schafhirten, oder er kommentierte die letzten Neuigkeiten, die er in den Städten erfahren hatte, durch die er zu ziehen pflegte."
+4,Lit_Alchemist,de,6,99,"Seit zwei Tagen jedoch sprach er beinahe nur noch über eins: die Tochter eines Händlers, die in jener Kleinstadt lebte, welche sie in vier Tagen erreichen würden."
+4,Lit_Alchemist,de,6,100,"Im vorigen Jahr war er das erste Mal bei diesem Handelsmann gewesen, der Besitzer eines Textilgeschäftes war und darauf bestand, daß die Schafe vor seinem Geschäft geschoren würden, um jeden Betrug zu vermeiden."
+4,Lit_Alchemist,de,6,101,"Ein Bekannter hatte den Laden empfohlen, und so brachte der Hirte seine Schafe jetzt dorthin."
+6,Lit_MagicMountain,de,1,102,Der Zauberberg - Vorsatz
+6,Lit_MagicMountain,de,1,103,"Die Geschichte Hans Castorps, die wir erzählen wollen, – nicht um seinetwillen (denn der Leser wird einen einfachen, wenn auch ansprechenden jungen Menschen in ihm kennenlernen), sondern um der Geschichte willen, die uns in hohem Grade erzählenswert scheint (wobei zu Hans Castorps Gunsten denn doch erinnert werden sollte, daß es seine Geschichte ist, und daß nicht jedem jede Geschichte passiert): diese Geschichte ist sehr lange her, sie ist sozusagen schon ganz mit historischem Edelrost überzogen und unbedingt in der Zeitform der tiefsten Vergangenheit vorzutragen."
+6,Lit_MagicMountain,de,2,104,"Das wäre kein Nachteil für eine Geschichte, sondern eher ein Vorteil;"
+6,Lit_MagicMountain,de,2,105,"denn Geschichten müssen vergangen sein, und je vergangener, könnte man sagen, desto besser für sie in ihrer Eigenschaft als Geschichten und für den Erzähler, den raunenden Beschwörer des Imperfekts."
+6,Lit_MagicMountain,de,3,106,"Es steht jedoch so mit ihr, wie es heute auch mit den Menschen und unter diesen nicht zum wenigsten mit den Geschichtenerzählern steht: sie ist viel älter als ihre Jahre, ihre Betagtheit ist nicht nach Tagen, das Alter, das auf ihr liegt, nicht nach Sonnenumläufen zu berechnen;"
+6,Lit_MagicMountain,de,3,107,"mit einem Worte: sie verdankt den Grad ihres Vergangenseins nicht eigentlich der Zeit, – eine Aussage, womit auf die Fragwürdigkeit und eigentümliche Zwienatur dieses geheimnisvollen Elementes im Vorbeigehen angespielt und hingewiesen sei."
+6,Lit_MagicMountain,de,4,108,"Um aber einen klaren Sachverhalt nicht künstlich zu verdunkeln: die hochgradige Verflossenheit unserer Geschichte rührt daher, daß sie vor einer gewissen, Leben und Bewußtsein tief zerklüftenden Wende und Grenze spielt ..."
+6,Lit_MagicMountain,de,4,109,"Sie spielt, oder, um jedes Präsens geflissentlich zu vermeiden, sie spielte und hat gespielt vormals, ehedem, in den alten Tagen, der Welt vor dem großen Kriege, mit dessen Beginn so vieles begann, was zu beginnen wohl kaum schon aufgehört hat."
+6,Lit_MagicMountain,de,4,110,"Vorher also spielt sie, wenn auch nicht lange vorher."
+6,Lit_MagicMountain,de,4,111,"Aber ist der Vergangenheitscharakter einer Geschichte nicht desto tiefer, vollkommener und märchenhafter, je dichter „vorher“ sie spielt?"
+6,Lit_MagicMountain,de,5,112,"Zudem könnte es sein, daß die unsrige mit dem Märchen auch sonst, ihrer inneren Natur nach, das eine und andre zu schaffen hat."
+6,Lit_MagicMountain,de,5,113,"Wir werden sie ausführlich erzählen, genau und gründlich, – denn wann wäre je die Kurz- oder Langweiligkeit einer Geschichte abhängig gewesen von dem Raum und der Zeit, die sie in Anspruch nahm?"
+6,Lit_MagicMountain,de,5,114,"Ohne Furcht vor dem Odium der Peinlichkeit, neigen wir vielmehr der Ansicht zu, daß nur das Gründliche wahrhaft unterhaltend sei."
+6,Lit_MagicMountain,de,6,115,Im Handumdrehen also wird der Erzähler mit Hansens Geschichte nicht fertig werden.
+6,Lit_MagicMountain,de,6,116,Die sieben Tage einer Woche werden dazu nicht reichen und auch sieben Monate nicht.
+6,Lit_MagicMountain,de,6,117,"Am besten ist es, er macht sich im voraus nicht klar, wieviel Erdenzeit ihm verstreichen wird, während sie ihn umsponnen hält."
+6,Lit_MagicMountain,de,6,118,"Es werden, in Gottes Namen, ja nicht geradezu sieben Jahre sein!"
+7,Lit_NorthWind,de,1,119,Der Nordwind und die Sonne
+7,Lit_NorthWind,de,1,120,"Einst stritten sich Nordwind und Sonne, wer von ihnen beiden wohl der Stärkere wäre, als ein Wanderer, der in einen warmen Mantel gehüllt war, des Weges daherkam."
+7,Lit_NorthWind,de,1,121,"Sie wurden einig, dass derjenige für den Stärkeren gelten sollte, der den Wanderer zwingen würde, seinen Mantel abzunehmen."
+7,Lit_NorthWind,de,2,122,"Der Nordwind blies mit aller Macht, aber je mehr er blies, desto fester hüllte sich der anderer in seinen Mantel ein."
+7,Lit_NorthWind,de,2,123,Endlich gab der Nordwind den Kampf auf.
+7,Lit_NorthWind,de,2,124,Nun erwärmte die Sonne die Luft mit ihren
+7,Lit_NorthWind,de,2,125,"freundlichen Strahlen, und schon nach wenigen Augenblicken zog der Wanderer seinen Mantel aus."
+7,Lit_NorthWind,de,2,126,"Da musste der Nordwind zugeben, dass die Sonne von ihnen beiden der Stärkere war."
+8,Lit_Solaris,de,1,127,Solaris - Kapitel 2: Die Solaristen
+8,Lit_Solaris,de,1,128,"Die Entdeckung der Solaris erfolgte nahezu hundert Jahre, bevor ich geboren wurde."
+8,Lit_Solaris,de,1,129,"Der Planet kreist um zwei Sonnen, eine rote und eine blaue."
+8,Lit_Solaris,de,1,130,"Über vierzig Jahre lang näherte sich ihm kein Raumschiff, die Gamov-Shapleysche Theorie über die Unmöglichkeit der Entstehung von Leben auf Planeten von Doppelsternen galt damals für erwiesen."
+8,Lit_Solaris,de,1,131,"Die Bahnen solcher Planeten ändern sich unentwegt infolge des Wechselspiels der Massenanziehungen, das vor sich geht, während die beiden Sonnen einander umkreisen."
+8,Lit_Solaris,de,2,132,"Die entstehenden Perturbationen kürzen und längen abwechselnd die Bahn des Planeten, und sollten Urkeime von Leben entstehen, so unterliegen sie der Zerstörung durch glutheiße Strahlung oder auch durch eisige Kälte."
+8,Lit_Solaris,de,2,133,"Diese Änderungen vollziehen sich im Zeitraum von Jahrmillionen, also der astronomischen oder biologischen Größenordnung nach (da die Evolution hunderte Millionen, wenn nicht eine Milliarde von Jahren erfordert) - in sehr kurzer Zeit."
+8,Lit_Solaris,de,3,134,Nach den ursprünglichen Berechnungen sollte sich die Solaris im Lauf von fünfhunderttausend Jahren bis auf die Distanz von einer halben astronomischen Einheit ihrer roten Sonne nähern und nach einer weiteren Million - in ihren Glutenabgrund stürzen.
+8,Lit_Solaris,de,3,135,"Aber schon nach etwas mehr als zehn Jahren überzeugte man sich, daß die Solarisbahn keineswegs die erwarteten Änderungen aufwies, ganz als ob sie konstant wäre, so konstant wie die Bahnen der Planeten unseres Sonnensystems."
+8,Lit_Solaris,de,4,136,"Man wiederholte, nun schon mit höchster Genauigkeit, die Beobachtungen und Messungen, die nur bestätigten, was bekannt war: die Solaris besitzt eine unbeständige Umlaufbahn."
+8,Lit_Solaris,de,4,137,"Von einem unter etlichen hundert neuentdeckten Planeten pro Jahr, die mit Notizen von ein paar Zeilen, mit Angabe der Elemente ihrer Bewegung, in die großen Statistiken einbezogen werden, avancierte die Solaris nun in den Rang eines besonderer Beachtung würdigen Himmelskörpers."
+8,Lit_Solaris,de,5,138,Und so kreiste denn an die vier Jahre nach dieser Entdeckung Ottenskjolds Expedition um den Planeten und untersuchte ihn vom Laokoon und von zwei Begleitschiffen aus.
+8,Lit_Solaris,de,5,139,"Diese Expedition hatte den Charakter provisorischer, improvisierter Auskundschaftung, zumal da sie nicht zum Landen ausgerüstet war."
+8,Lit_Solaris,de,5,140,"Sie brachte in Äquator- und Pol-Umlaufbahnen eine größere Anzahl von Beobachtungssatelliten an, deren Hauptaufgabe die Messung der Gravitationspotentiale war."
+8,Lit_Solaris,de,6,141,Überdies wurden die fast gänzlich vom Ozean bedeckte Planetenoberfläche und die wenigen aus seinem Niveau herausragenden Hochebenen erforscht.
+8,Lit_Solaris,de,6,142,"Diese erreichen insgesamt nicht den Flächeninhalt Europas, obwohl die Solaris einen um zwanzig Prozent größeren Durchmesser hat als die Erde."
+8,Lit_Solaris,de,6,143,Diese unregelmäßig verstreuten Brocken von felsigem und ödem Land häufen sich vor allem auf der Südhalbkugel.
+8,Lit_Solaris,de,7,144,"Man stellte auch die Zusammensetzung der Atmosphäre fest, die keinen Sauerstoff enthält, und maß überaus genau die Dichte des Planeten sowie die Albedo und andere astronomische Elemente."
+8,Lit_Solaris,de,7,145,"Wie erwartet, wurden keine Spuren von Leben aufgefunden, weder an Land, noch gewahrte man welche am Ozean."
+8,Lit_Solaris,de,8,146,"Während weiterer zehn Jahre zeigte die Solaris, nun schon im Zentrum der Aufmerksamkeit aller Observatorien dieses Bereichs, erstaunliche Tendenz zur Beibehaltung ihrer außer allem Zweifel gravitationsmäßig unbeständigen Umlaufbahn."
+8,Lit_Solaris,de,8,147,"Eine Zeit lang roch die Angelegenheit nach Skandal, denn die Schuld an einem solchen Beobachtungsergebnis suchte man (immer aus Sorge um das Wohl der Wissenschaft) bald auf bestimmte Leute zu schieben, bald auf die Rechenanlagen, deren sie sich bedienten."
+8,Lit_Solaris,de,9,148,"Der Mangel an Geldmitteln zögerte die Entsendung einer eigentlichen Solaris-Expedition weitere drei Jahre hinaus, bis zu dem Zeitpunkt, da Shannahan die Besatzung komplett hatte und vom Institut drei Einheiten der Tonnage C, Kosmodromklasse, erlangte."
+8,Lit_Solaris,de,9,149,"Anderthalb Jahre vor Eintreffen der Expedition, die vom Gebiet des Alpha des Wassermanns aus startete, brachte von seiten des Instituts eine zweite Explorationsflotte ein automatisches Satelloid, Luna 247, in eine Solaris-Umlaufbahn."
+8,Lit_Solaris,de,10,150,Nach dreijahrzehntelang auseinanderliegenden Rekonstruktionen arbeitet dieses Satelloid heute noch.
+8,Lit_Solaris,de,10,151,"Die Daten, die es sammelte, bestätigten endgültig, was Ottenskjolds Expedition wahrgenommen hatte: den aktiven Charakter der Ozeanbewegungen."
+8,Lit_Solaris,de,10,152,"Ein Schiff Shannahans verblieb auf einer hohen Umlaufbahn, zwei dagegen landeten nach einleitenden Vorbereitungen auf einem felsigen Stück Land, das beim Südpol der Solaris etwa sechshundert Quadratmeilen einnimmt."
+8,Lit_Solaris,de,11,153,"Die Arbeiten der Expedition waren nach achtzehn Monaten beendet und verliefen günstig, bis auf einen Unglücksfall, der durch Fehlfunktion der Apparate verursacht wurde."
+8,Lit_Solaris,de,11,154,Innerhalb des Wissenschaftlerteams kam es jedoch zur Aufspaltung in zwei gegnerische Lager.
+8,Lit_Solaris,de,11,155,Zum Gegenstand des Streits wurde der Ozean.
+8,Lit_Solaris,de,11,156,"Auf Grund der Analysen wurde er als organisches Gebilde erkannt (ihn lebendig zu nennen, wagte damals noch niemand)."
+8,Lit_Solaris,de,12,157,"Während jedoch die Biologen in ihm ein primitives Gebilde sahen - eine Art gigantischen Verband, also gleichsam eine einzige monströs auseinandergewachsene flüssige Zelle (aber sie nannten ihn `präbiologische Formation´), die den ganzen Globus mit einem gallertigen, stellenweise eine Tiefe von mehreren Meilen erreichenden Mantel überzogen hat - behaupteten Astronomen und Physiker, das müsse eine außerordentlich hoch organisierte Struktur sein, die möglicher weise an Verschlungenheit des Aufbaus die irdischen Organismen übertreffe, da sie doch imstande sei, aktiv die Ausformung der Planetenbahn zu beeinflussen."
+8,Lit_Solaris,de,13,158,"Es wurde nämlich keinerlei andere Ursache entdeckt, die das Verhalten der Solaris erklärt hätte;"
+8,Lit_Solaris,de,13,159,"überdies fanden die Planetarphysiker eine Beziehung zwischen bestimmten Prozessen des Plasma-Ozeans und dem örtlich gemessenen Gravitationspotential, das sich in Abhängigkeit vom Ozean-eigenen `Stoffwechsel´ änderte."
+8,Lit_Solaris,de,13,160,So brachten also Physiker und nicht Biologen die paradoxe Formulierung `plasmatische Maschine´ vor;
+8,Lit_Solaris,de,13,161,"darunter verstanden sie ein Gebilde, in unserem Sinne vielleicht auch unbelebt, doch fähig, zielbezogene Tätigkeiten zu unternehmen - fügen wir gleich hinzu: in astronomischer Größenordnung."
+8,Lit_Solaris,de,14,162,"In diesem Streit, der innerhalb von Wochen die bedeutendsten Autoritäten sämtlich in seinen Wirbel hineinzog, geriet zum ersten Mal seit achtzig Jahren die Gamov-Shapleysche Doktrin ins Wanken."
+9,Lit_BrokenApril,de,1,163,Der zerrissene April - Kapitel 3
+9,Lit_BrokenApril,de,1,164,"Ohne die Hand seiner Frau loszulassen, beugte sich Besian Vorpsi zum Fenster, um nachzusehen, ob die kleine Stadt, in der sie eine halbe Stunde zuvor aufgebrochen waren, die letzte vor der Hochebene im Norden, endlich aus dem Blickfeld entschwunden war."
+9,Lit_BrokenApril,de,1,165,"Sanft ansteigende Hänge dehnten sich vor und neben ihnen, ein merkwürdiges Stück Erde, weder Ebene noch Berg noch Plateau."
+9,Lit_BrokenApril,de,2,166,"Das Gebirge hatte noch nicht begonnen, doch sein Schatten war schon lange zu spüren."
+9,Lit_BrokenApril,de,2,167,"Und obwohl gerade dieser Schatten dem Landstrich den Zugang zur Welt der Berge verwehrte, ließ er doch nicht mehr zu, daß von einer Niederung gesprochen wurde."
+9,Lit_BrokenApril,de,2,168,"Niemandsland also, karg und fast unbewohnt."
+9,Lit_BrokenApril,de,3,169,Feine Regentropfen kullerten ab und zu über die Fensterscheiben.
+9,Lit_BrokenApril,de,3,170,"»Die Verwünschten Almen«, sagte er leise und mit ein wenig bebender Stimme, wie man von etwas spricht, auf dessen Anblick man sich lange gefreut hat."
+9,Lit_BrokenApril,de,3,171,"Befriedigt registrierte er, daß die Erwähnung des Namens bei seiner Frau ein feierliches Schaudern auslöste."
+9,Lit_BrokenApril,de,4,172,"Als sie sich herüberbeugte, um hinauszuschauen, roch er den zarten Duft ihres Nackens."
+9,Lit_BrokenApril,de,4,173,»Wo?«
+9,Lit_BrokenApril,de,4,174,"Er wies mit dem Finger auf etwas, doch dort, wo er hinzeigte, waren nur wallende Nebel zu erkennen."
+9,Lit_BrokenApril,de,4,175,"»Sie sind noch nicht richtig zu sehen«, erklärte er."
+9,Lit_BrokenApril,de,4,176,»Wir sind noch zu weit weg.«
+9,Lit_BrokenApril,de,5,177,Sie griff wieder nach seiner Hand und lehnte sich in den Polstern zurück.
+9,Lit_BrokenApril,de,5,178,"Die Zeitung, die sie vor der Abfahrt in der kleinen Stadt gekauft hatten (auf der Titelseite war von ihnen die Rede), glitt unter dem Schwanken des Wagens zu Boden, doch sie dachten beide nicht daran, das Blatt wieder aufzuheben."
+9,Lit_BrokenApril,de,5,179,Mit einem verträumten Lächeln dachte sie an die Überschrift:
+9,Lit_BrokenApril,de,5,180,»Eine frohe Überraschung!
+9,Lit_BrokenApril,de,5,181,Der Schriftsteller Besian Vorpsi und seine junge Frau Diana wollen ihre Flitterwochen im nördlichen Hochland verbringen!
+9,Lit_BrokenApril,de,5,182,«
+9,Lit_BrokenApril,de,6,183,Dann ging es etwas verworren weiter.
+9,Lit_BrokenApril,de,6,184,"Es war nicht eindeutig zu erschließen, ob der Verfasser des Artikels, ein gewisser A. G. (womöglich ihr gemeinsamer Bekannter Adrian Guma) die Reise nun begrüßte oder sich ein wenig darüber mokierte."
+9,Lit_BrokenApril,de,7,185,"Ihr selbst war die Idee zu der Reise ziemlich ausgefallen vorgekommen, als er zwei Wochen vor der Hochzeit zum ersten Mal darüber gesprochen hatte."
+9,Lit_BrokenApril,de,7,186,"Du brauchst dich gar nicht zu wundern, hatten ihre Freundinnen gemeint."
+9,Lit_BrokenApril,de,7,187,"Wenn man einen so ungewöhnlichen Mann heiratet, bekommt man von ihm eben merkwürdige Dinge zu hören."
+9,Lit_BrokenApril,de,7,188,Aber was heißt das schon.
+9,Lit_BrokenApril,de,7,189,Wir sagen nur: Du Glückliche!
+9,Lit_BrokenApril,de,8,190,Sie war wirklich glücklich.
+9,Lit_BrokenApril,de,8,191,"In all den Tagen vor der Hochzeit wurde in Tiranas leidlich mondänen, leidlich kunstsinnigen Kreisen von nichts anderem gesprochen als von ihrer bevorstehenden Reise."
+9,Lit_BrokenApril,de,8,192,Die meisten waren hingerissen:
+9,Lit_BrokenApril,de,8,193,"Du kommst aus der realen Welt geradewegs in die Welt der Legenden, mitten in ein wirkliches Epos, wie es sonst fast nirgends in der Welt mehr existiert."
+9,Lit_BrokenApril,de,9,194,"Und sie erzählten von Feen und Elfen, von den Rhapsoden, den letzten Homeriden auf der Welt, vom Kanun, der furchtbar war und doch so großartig."
+9,Lit_BrokenApril,de,9,195,"Andere wiederum zuckten mit den Schultern ob dieses wunderlichen Einfalls, ihrer Skepsis zaghaft Ausdruck verleihend."
+9,Lit_BrokenApril,de,9,196,"Diese betraf vor allem die Frage des Komforts, um so mehr, als es um Flitterwochen, also eine delikate Angelegenheit ging, während es doch in den Alpen noch kalt und die epischen Türme recht steinern waren."
+9,Lit_BrokenApril,de,10,197,Ein kleiner Teil reagierte auf die ganze Sache mit mildem Spott:
+9,Lit_BrokenApril,de,10,198,"Geht nur in den Norden, ihr beiden, besucht die Elfen."
+9,Lit_BrokenApril,de,10,199,"Vielleicht tut es euch ja gut, vor allem Besian Vorpsi."
+10,Arg_PISACowsMilk,de,1,200,Kuhmilch - Einleitung
+10,Arg_PISACowsMilk,de,1,201,"An einigen Orten, zum Beispiel in den USA, ist es üblich, Kuhmilch zu trinken."
+10,Arg_PISACowsMilk,de,1,202,"Stell dir vor, drei Schüler, Anna, Christopher und Sam, sind in einem Café in den USA."
+10,Arg_PISACowsMilk,de,1,203,"Der Besitzer hat vor Kurzem ein Schild in das Fenster gestellt, auf dem steht:"
+10,Arg_PISACowsMilk,de,1,204,„Nach dem 5. April werden wir hier keine Kuhmilch mehr servieren.
+10,Arg_PISACowsMilk,de,1,205,Stattdessen werden wir einen Milchersatz aus Soja anbieten.
+10,Arg_PISACowsMilk,de,1,206,”
+10,Arg_PISACowsMilk,de,2,207,"Anna, Christopher und Sam sind neugierig, warum das Café keine Kuhmilch mehr servieren will und Anna sucht auf ihrem Smartphone im Internet nach „Kuhmilch”."
+10,Arg_PISACowsMilk,de,2,208,Sie sehen sich den ersten Treffer an und diskutieren darüber.
+10,Arg_PISACowsMilk,de,3,209,www.hofmolkerei.org
+10,Arg_PISACowsMilk,de,3,210,HOFMOLKEREI
+10,Arg_PISACowsMilk,de,3,211,Der Nährwert von Milch: Unzählige Vorteile!
+10,Arg_PISACowsMilk,de,4,212,"Die Milchprodukte von Hofmolkerei enthalten wesentliche Nährstoffe: Kalzium, Eiweiß, Vitamin D, Vitamin B12, Riboflavin und Kalium."
+10,Arg_PISACowsMilk,de,4,213,Diese Vitamine und Mineralstoffe machen die Milchprodukte von Hofmolkerei zu einem wichtigen Bestandteil einer gesunden Ernährung.
+10,Arg_PISACowsMilk,de,4,214,"Der tägliche Verzehr der Milchprodukte von Hofmolkerei ist eine großartige Möglichkeit sicherzustellen, dass Sie die Vitamine und Mineralstoffe bekommen, die Ihr Körper braucht."
+10,Arg_PISACowsMilk,de,5,215,"Der Verzehr der Milchprodukte von Hofmolkerei steigert die Gewichtsabnahme und hilft, ein gesundes Gewicht zu halten."
+10,Arg_PISACowsMilk,de,5,216,Milch erhöht die Knochenstärke und Knochendichte.
+10,Arg_PISACowsMilk,de,5,217,"Sie verbessert sogar das Herz-Kreislauf-System und hilft, gegen Krebs vorzubeugen."
+10,Arg_PISACowsMilk,de,5,218,"Ein Glas Milch ist vollgepackt mit Vitaminen, Mineralstoffen und zahlreichen Vorteilen für die Gesundheit."
+10,Arg_PISACowsMilk,de,6,219,"Laut Dr. Bill Sears, Klinikprofessor für Pädiatrie an der Universität von Kalifornien in Irvine, sind in der Milch praktischerweise viele wichtige Nährstoffe vereint."
+10,Arg_PISACowsMilk,de,6,220,"Der Internationale Verband für Molkereierzeugnisse (International Dairy Foods Association, IDFA) unterstützt diese Auffassung."
+10,Arg_PISACowsMilk,de,6,221,"Der IDFA weist sogar darauf hin, dass viele Gesundheitsexperten und -gruppen dem ebenfalls zustimmen würden."
+10,Arg_PISACowsMilk,de,7,222,Milch enthält ein vollständiges Nährstoffpaket aus neun lebenswichtigen Nährstoffen.
+10,Arg_PISACowsMilk,de,7,223,"Sie ist nicht nur eine hervorragende Quelle für Kalzium und Vitamin D, sondern auch für Vitamin A, Eiweiß und Kalium."
+10,Arg_PISACowsMilk,de,7,224,Milchprodukte werden von Ärzten empfohlen.
+10,Arg_PISACowsMilk,de,7,225,Die Rolle von Milchprodukten für eine gesunde Ernährung wurde längst von zahlreichen Ernährungs- und Forschungsinstitutionen in den USA nachgewiesen.
+10,Arg_PISACowsMilk,de,8,226,"Dazu gehören die amerikanische Osteoporosestiftung, der Leiter der US-Gesundheitsbehörde, die amerikanischen Gesundheitsinstitute, der Rat für Wissenschaftsfragen des amerikanischen Medizinverbandes und viele andere führende Gesundheitsorganisationen."
+10,Arg_PISACowsMilk,de,8,227,Internationaler Verband für Molkereierzeugnisse.
+10,Arg_PISACowsMilk,de,8,228,27. September 2007
+10,Arg_PISACowsMilk,de,9,229,"Anna, Christopher und Sam sprechen über die Entscheidung des Cafébesitzers, keine Kuhmilch mehr zu verkaufen."
+10,Arg_PISACowsMilk,de,9,230,Sam sagt: „Vielleicht wird Kuhmilch zu teuer.
+10,Arg_PISACowsMilk,de,9,231,” Christopher schaut auf sein Smartphone.
+10,Arg_PISACowsMilk,de,9,232,"„Kann sein, aber ich habe auch im Netz nach Informationen zu Kuhmilch gesucht."
+10,Arg_PISACowsMilk,de,9,233,"Ich schicke euch eine Nachricht mit einem Link zu einem aktuelleren Artikel, der es vielleicht erklärt."
+10,Arg_PISACowsMilk,de,9,234,”
+10,Arg_PISACowsMilk,de,9,235,"Anna und Sam öffnen den Link, den Christopher geschickt hat, und lesen den Artikel: „Sag einfach ‚Nein’ zu Kuhmilch!”"
+10,Arg_PISACowsMilk,de,10,236,www.gesundheitheute.de/milch
+10,Arg_PISACowsMilk,de,10,237,GESUNDHEIT
+10,Arg_PISACowsMilk,de,10,238,HEUTE
+10,Arg_PISACowsMilk,de,10,239,SAG
+10,Arg_PISACowsMilk,de,10,240,EINFACH
+10,Arg_PISACowsMilk,de,10,241,‚NEIN’ ZU KUHMILCH!
+10,Arg_PISACowsMilk,de,10,242,Von Gesundheitsjournalist Dr. R. Gabler
+10,Arg_PISACowsMilk,de,11,243,Kuhmilch spielt eine große Rolle im Alltag vieler Amerikaner.
+10,Arg_PISACowsMilk,de,11,244,Babys trinken Kuhmilch aus dem Fläschchen.
+10,Arg_PISACowsMilk,de,11,245,Kinder gießen Kuhmilch über ihr Müsli.
+10,Arg_PISACowsMilk,de,11,246,Sogar Erwachsene genießen gelegentlich ein Glas kalte Milch.
+10,Arg_PISACowsMilk,de,11,247,"Ja, Kuhmilch spielt in vielen Teilen der Welt eine enorme Rolle bei der Ernährung der Menschen."
+10,Arg_PISACowsMilk,de,11,248,"Allerdings zeigt die Forschung verstärkt, dass der beliebte amerikanische Werbeslogan „Die Milch macht's” vielleicht eher lauten sollte: „Die Milch macht's nicht mehr”."
+10,Arg_PISACowsMilk,de,12,249,"Das Landwirtschaftsministerium der Vereinigten Staaten, der amerikanische Milchverband, der Molkereiverband und andere Organisationen haben sich seit vielen Jahren intensiv für Milch eingesetzt."
+10,Arg_PISACowsMilk,de,12,250,"Sie empfehlen Erwachsenen, täglich mindestens drei Gläser Milch zu trinken."
+10,Arg_PISACowsMilk,de,12,251,Allerdings haben mehrere Studien in den letzten zehn Jahren die knochenstärkende Wirkung von Milch sowie weitere Behauptungen über den gesundheitlichen Nutzen von Milch in Frage gestellt.
+10,Arg_PISACowsMilk,de,12,252,Die Ergebnisse dürften Sie überraschen.
+10,Arg_PISACowsMilk,de,13,253,Eine der aktuellsten und wichtigsten Studien über die Auswirkungen des Milchtrinkens wurde in der Oktober-Ausgabe 2014 des British Medical Journal (Britische Fachzeitschrift für Medizin) veröffentlicht.
+10,Arg_PISACowsMilk,de,13,254,Die Befunde dieser Studie führten zu einigen schlagkräftigen Aussagen über den Verzehr von Milch.
+10,Arg_PISACowsMilk,de,13,255,In dieser Studie wurden über 100.000 Menschen in Schweden über Zeiträume von 20-30 Jahren hinweg beobachtet.
+10,Arg_PISACowsMilk,de,13,256,"Forscher stellten fest, dass die weiblichen Milchtrinker mehr Knochenbrüche erlitten."
+10,Arg_PISACowsMilk,de,13,257,Zudem war bei männlichen und weiblichen Milchtrinkern die Wahrscheinlichkeit für Herzkrankheiten und Krebserkrankungen höher.
+10,Arg_PISACowsMilk,de,13,258,Diese erstaunlichen Ergebnisse ähneln den Befunden anderer Studien.
+10,Arg_PISACowsMilk,de,14,259,"Das ÄVM, das Ärztekomitee für Verantwortungsbewusste Medizin (Physicians Committee for Responsible Medicine, PCRM), kommentierte einige der Gesundheitsprobleme im Zusammenhang mit dem Konsum von Milch."
+10,Arg_PISACowsMilk,de,14,260,"Es behauptet, dass Milch- und Molkereiprodukte „wenig oder keinen Nutzen für die Knochen haben."
+10,Arg_PISACowsMilk,de,14,261,”
+10,Arg_PISACowsMilk,de,14,262,"Das ÄVM geht ausführlicher auf spezifische Probleme ein, die mit Milch in Verbindung gebracht werden:"
+10,Arg_PISACowsMilk,de,14,263,"„Milcheiweiß, Milchzucker, Fett und gesättigte Fettsäuren in Milchprodukten stellen Gesundheitsrisiken für Kinder dar und begünstigen die Entstehung von Fettleibigkeit, Diabetes und Herzkrankheiten."
+10,Arg_PISACowsMilk,de,14,264,”
+10,Arg_PISACowsMilk,de,15,265,"Dies sind schwerwiegende Behauptungen und weitere Studien werden benötigt, um die Befunde zu bestätigen."
+10,Arg_PISACowsMilk,de,15,266,"Allerdings häufen sich die Hinweise darauf, dass das Trinken von Kuhmilch möglicherweise weniger gesund ist als ursprünglich gedacht."
+10,Arg_PISACowsMilk,de,15,267,"Sollten diese Behauptungen zu unbestrittenen Tatsachen werden, dann könnte es Zeit sein, einfach"
+10,Arg_PISACowsMilk,de,15,268,‚Nein’ zu Kuhmilch zu sagen.
+11,Arg_PISARapaNui,de,1,269,Die Osterinsel - Einleitung
+11,Arg_PISARapaNui,de,1,270,Stellen
+11,Arg_PISARapaNui,de,1,271,Sie
+11,Arg_PISARapaNui,de,1,272,sich
+11,Arg_PISARapaNui,de,1,273,"vor, dass eine örtliche Bibliothek nächste Woche zu einem Vortrag einlädt."
+11,Arg_PISARapaNui,de,1,274,Der Vortrag wird von einer Professorin einer nahegelegenen Universität gehalten.
+11,Arg_PISARapaNui,de,1,275,"Sie wird über ihre Feldforschung auf der Osterinsel sprechen, die im pazifischen Ozean, über 3200 Kilometer westlich von Chile, liegt."
+11,Arg_PISARapaNui,de,2,276,"Sie wollen die Geschichte der Osterinsel recherchieren, damit Sie etwas darüber wissen, bevor Sie den Vortrag besuchen."
+11,Arg_PISARapaNui,de,2,277,"Die erste Quelle, die Sie lesen werden, ist ein Blogeintrag, der von der Professorin geschrieben wurde, während sie auf der Osterinsel lebte."
+11,Arg_PISARapaNui,de,3,278,www.dieprofessorinblog.de/feldforschung/osterinsel
+11,Arg_PISARapaNui,de,3,279,Blog der Professorin
+11,Arg_PISARapaNui,de,3,280,"Gepostet am 23. Mai, 11:22 Uhr"
+11,Arg_PISARapaNui,de,4,281,"Während ich heute Morgen aus meinem Fenster schaue, sehe ich die Landschaft, die ich zu lieben gelernt habe, hier auf Rapa Nui, mancherorts auch Osterinsel genannt."
+11,Arg_PISARapaNui,de,4,282,"Die Gräser und Büsche sind grün, der Himmel ist blau und die alten, jetzt erloschenen Vulkane erheben sich im Hintergrund."
+11,Arg_PISARapaNui,de,5,283,"Ich bin ein bisschen traurig, weil ich weiß, dass dies meine letzte Woche auf der Insel ist."
+11,Arg_PISARapaNui,de,5,284,Ich habe meine Feldforschung abgeschlossen und werde nach Hause zurückkehren.
+11,Arg_PISARapaNui,de,5,285,"Nachher werde ich noch einen Spaziergang durch die Hügel machen und mich von den Moai verabschieden, die ich in den letzten neun Monaten erforscht habe."
+11,Arg_PISARapaNui,de,5,286,Hier ist ein Bild von einigen dieser riesigen Statuen.
+11,Arg_PISARapaNui,de,6,287,"Wenn Sie meinen Blog dieses Jahr verfolgt haben, dann wissen Sie, dass die Menschen der Osterinsel diese Moai vor Hunderten von Jahren gemeißelt haben."
+11,Arg_PISARapaNui,de,6,288,Diese beeindruckenden Moai wurden in einem einzigen Steinbruch im östlichen Teil der Insel gemeißelt.
+11,Arg_PISARapaNui,de,6,289,"Einige von ihnen wogen Tausende von Kilos, trotzdem waren die Menschen der Osterinsel in der Lage, sie ohne Kräne oder jegliche schwere Ausrüstung an Orte zu transportieren, die weit entfernt vom Steinbruch waren."
+11,Arg_PISARapaNui,de,7,290,"Jahrelang wussten Archäologen nicht, wie diese riesigen Statuen transportiert wurden."
+11,Arg_PISARapaNui,de,7,291,"Es blieb bis in die 1990er Jahre ein Rätsel, als schließlich ein Team von Archäologen und Bewohnern der Osterinsel zeigte, dass die Moai mithilfe von Seilen aus Pflanzen und hölzernen Rollen und Schienen aus großen Bäumen, die früher zahlreich auf der Insel gewachsen waren, transportiert und aufgestellt worden sein könnten."
+11,Arg_PISARapaNui,de,7,292,Das Rätsel der Moai war gelöst.
+11,Arg_PISARapaNui,de,8,293,Ein anderes Rätsel blieb jedoch.
+11,Arg_PISARapaNui,de,8,294,"Was geschah mit diesen Pflanzen und großen Bäumen, die verwendet worden waren, um die Moai zu transportieren?"
+11,Arg_PISARapaNui,de,8,295,"Wie bereits erwähnt, sehe ich, wenn ich aus meinem Fenster schaue, Gräser und Büsche und ein oder zwei kleine Bäume, aber nichts, was hätte verwendet werden können, um diese riesigen Statuen zu transportieren."
+11,Arg_PISARapaNui,de,8,296,"Es ist ein faszinierendes Geheimnis, eines das ich in zukünftigen Posts und Vorträgen erforschen werde."
+11,Arg_PISARapaNui,de,8,297,Bis dahin wollen Sie vielleicht dem Rätsel selbst auf den Grund gehen.
+11,Arg_PISARapaNui,de,8,298,"Ich schlage vor, Sie beginnen mit dem Buch „Kollaps” von Jared Diamond."
+11,Arg_PISARapaNui,de,8,299,Diese Buchbesprechung von „Kollaps” ist ein guter Anfang.
+11,Arg_PISARapaNui,de,9,300,www.wissenschaftliche-buchbesprechung.de/Kollaps
+11,Arg_PISARapaNui,de,9,301,Buchbesprechung von „Kollaps”
+11,Arg_PISARapaNui,de,10,302,Jared Diamonds neues Buch „Kollaps” ist eine eindeutige Warnung vor den Folgen der Zerstörung unserer Umwelt.
+11,Arg_PISARapaNui,de,10,303,"In dem Buch beschreibt der Autor den Kollaps mehrerer Zivilisationen aufgrund der Entscheidungen, die sie trafen, und deren Auswirkung auf die Umwelt."
+11,Arg_PISARapaNui,de,10,304,Eines der beunruhigendsten Beispiele in dem Buch ist die Osterinsel.
+11,Arg_PISARapaNui,de,11,305,Laut dem Autor wurde die Osterinsel irgendwann nach 700 n. Chr. von den Polynesiern besiedelt.
+11,Arg_PISARapaNui,de,11,306,Sie entwickelten sich zu einer florierenden Gesellschaft von vielleicht 15.000 Menschen.
+11,Arg_PISARapaNui,de,11,307,"Sie meißelten die Moai, die berühmten Statuen, und nutzten die verfügbaren natürlichen Ressourcen, um diese riesigen Moai an verschiedene Orte auf der Insel zu transportieren."
+11,Arg_PISARapaNui,de,11,308,"Als die ersten Europäer 1722 auf die Osterinsel kamen, waren die Moai immer noch dort, aber die Bäume waren verschwunden."
+11,Arg_PISARapaNui,de,12,309,"Die Bevölkerung war auf wenige Tausend Menschen geschrumpft, die ums Überleben kämpften."
+11,Arg_PISARapaNui,de,12,310,"Jared Diamond schreibt, dass die Menschen der Osterinsel das Land für landwirtschaftliche und andere Zwecke rodeten und übermäßige Jagd auf die zahlreichen Arten von See- und Landvögeln machten, die auf der Insel lebten."
+11,Arg_PISARapaNui,de,12,311,"Er vermutet, dass die schwindenden natürlichen Ressourcen zu Stammeskriegen und dem Untergang der Gesellschaft auf der Osterinsel führten."
+11,Arg_PISARapaNui,de,13,312,"Die Lektion dieses wundervollen, aber beängstigenden Buches ist, dass die Menschen in der Vergangenheit die Entscheidung trafen, ihre Umwelt zu zerstören, indem sie alle Bäume fällten und Tierarten bis zur Ausrottung jagten."
+11,Arg_PISARapaNui,de,13,313,"Optimistisch weist der Autor darauf hin, dass wir uns entscheiden können, dieselben Fehler heute nicht zu machen."
+11,Arg_PISARapaNui,de,13,314,"Das Buch ist gut geschrieben und ist es wert, von allen gelesen zu werden, denen die Umwelt am Herzen liegt."
+12,PopSci_Caveman,de,1,315,"Dunkelhäutiger, blauäugiger Höhlenmensch enthüllt"
+12,PopSci_Caveman,de,1,316,"DNA, die aus dem Weisheitszahn eines europäischen Jägers und Sammlers extrahiert wurde, hat den Wissenschaftlern einen beispiellosen Einblick in die modernen Menschen vor dem Aufkommen der Landwirtschaft ermöglicht."
+12,PopSci_Caveman,de,1,317,"Dieser mesolithische Mann, der vor etwa 7.000 Jahren in Spanien lebte, weist eine ungewöhnliche Mischung aus blauen Augen, schwarzen oder braunen Haaren und dunkler Haut auf, wie Analysen seiner genetischen Zusammensetzung ergaben."
+12,PopSci_Caveman,de,2,318,"Wahrscheinlich war er laktoseintolerant und hatte größere Schwierigkeiten, stärkehaltige Lebensmittel zu verdauen als die Bauern, die Ernährung und Lebensweisen nachhaltig veränderten, indem sie mit der ersten Agrarrevolution begannen, Werkzeuge zu verwenden."
+12,PopSci_Caveman,de,3,319,"Die Erfindung der Landwirtschaft brachte Mensch und Tier in viel engeren Kontakt, und es ist wahrscheinlich, dass Menschen robustere Immunsysteme entwickelten, um Infektionen abzuwehren, die von den Tieren übertragen wurden."
+12,PopSci_Caveman,de,3,320,"Aber Wissenschaftler könnten den Einfluss der Landwirtschaft auf die Entwicklung des menschlichen Immunsystems überschätzt haben, denn die Tests an der DNA des Jägers und Sammlers ergaben, dass er bereits Mutationen in sich trug, die das Immunsystem stärken, um verschiedene schädliche Keime zu bekämpfen."
+12,PopSci_Caveman,de,3,321,Einige davon existieren noch heute bei modernen Europäern.
+12,PopSci_Caveman,de,4,322,"""Bevor wir diese Arbeit begonnen haben, hatte ich bestimmte Vorstellungen davon, was wir finden würden"", sagte Carles Lalueza-Fox, der die Studie am Institut für Evolutionsbiologie in Barcelona leitete."
+12,PopSci_Caveman,de,4,323,"""Die meisten dieser Ideen stellten sich als völlig falsch heraus."""
+12,PopSci_Caveman,de,5,324,"Das spanische Team begann seine Arbeit, nachdem eine Gruppe von Höhlenforschern 2006 auf zwei Skelette in einem tiefen und komplexen Höhlensystem in den Kantabrischen Bergen im Nordwesten Spaniens gestoßen war."
+12,PopSci_Caveman,de,5,325,Die menschlichen Überreste gehörten zu zwei Männern in ihren frühen 30ern und waren durch die kühle Umgebung der Höhle extrem gut erhalten geblieben.
+12,PopSci_Caveman,de,6,326,"Eine Radiokarbondatierung datierte die Überreste auf ca. 7.000 Jahre, das heißt bevor die Landwirtschaft aus dem Nahen Osten nach Europa vorgedrungen war."
+12,PopSci_Caveman,de,6,327,"Diese Zeitangabe passt zu den alten Artefakten, die an der Stelle gefunden wurden, darunter durchbohrte Rentierzähne, die an der Kleidung der Menschen befestigt waren."
+12,PopSci_Caveman,de,7,328,Neben den Auswirkungen für die Wissenschaft müssen nun auch Künstler ihre Zeichnungen der Menschen möglicherweise überdenken.
+12,PopSci_Caveman,de,7,329,"""Man sieht viele Rekonstruktionen dieser Menschen bei der Jagd und bei der Sammlung, und sie sehen aus wie moderne Europäer mit heller Haut."
+12,PopSci_Caveman,de,7,330,"Man sieht nie eine Rekonstruktion eines mesolithischen Jägers und Sammlers mit dunkler Haut und blauer Augenfarbe"", sagte Lalueza-Fox."
+12,PopSci_Caveman,de,8,331,"Das spanische Team verglich daraufhin das Genom des Jägers und Sammlers mit dem von modernen Europäern aus verschiedenen Regionen, um herauszufinden, wie sie miteinander verwandt sein könnten."
+12,PopSci_Caveman,de,8,332,"Sie stellten fest, dass die antike DNA am engsten mit der genetischen Zusammensetzung von Menschen in Nordeuropa übereinstimmte, insbesondere der aus Schweden und Finnland."
+13,Enc_WikiMoon,de,1,333,Mond
+13,Enc_WikiMoon,de,1,334,https://de.wikipedia.org/wiki/Mond
+13,Enc_WikiMoon,de,1,335,"Aus Wikipedia, der freien Enzyklopädie"
+13,Enc_WikiMoon,de,1,336,Der Mond ist der einzige natürliche Satellit des Planeten Erde.
+13,Enc_WikiMoon,de,1,337,Er umkreist die Erde in einer durchschnittlichen Entfernung von 384.400 km (238.900 Meilen;
+13,Enc_WikiMoon,de,1,338,"1,28 ls), was etwa dem 30-fachen des Erddurchmessers entspricht."
+13,Enc_WikiMoon,de,2,339,"Der Mond ist der Erde immer mit seiner nahen Seite zugewandt, da seine Rotationsperiode seiner Umlaufperiode entspricht, was durch die Gezeitenbindung an die Erde bedingt ist."
+13,Enc_WikiMoon,de,2,340,"Dieser Zeitraum ist im Verhältnis zur Sonne 29,5 Tage lang und als Zyklus der Mondphasen sichtbar."
+13,Enc_WikiMoon,de,2,341,"Für die Erde ist der Mond neben der Sonne das einflussreichste Himmelsobjekt, insbesondere aufgrund seines Gravitationseinflusses ist er der Hauptantrieb für die Gezeiten der Erde."
